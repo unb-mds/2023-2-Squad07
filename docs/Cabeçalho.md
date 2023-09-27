@@ -4,3 +4,4 @@ Todas as documentações do nosso projeto estão listadas aqui, caso queira ver 
 ## Indice
 * [Scrum](Scrum.md) - Explicação da metodologia (Scrum) usada pelo grupo para elaboração do projeto.
 * [Ata](ata.md) - Campo onde as atas das reuniões ficaram registradas.
+* [Parser](parser.md) - Descrição do Parser e a sua importância para o projeto.
