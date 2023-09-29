@@ -12,7 +12,7 @@ Este repositório contém o trabalho do Squad 07 da disciplina de Métodos de De
 
 Iremos criar raspadores de alguns municípios do Estado do Ceará de acordo com o padrão do Querido Diário.
 
-Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história</a> do projeto no <a href="https://queridodiario.ok.org.br/">site do Querido Diário</a>.
+Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história</a> do Querido Diário no <a href="https://queridodiario.ok.org.br/">site do Querido Diário</a>.
 
 ## Equipe
 
