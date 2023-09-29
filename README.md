@@ -11,7 +11,8 @@
 Este repositório contém o trabalho do Squad 07 da disciplina de Métodos de Desenvolvimento de Software. O objetivo é desenvolvermos um software com base no projeto open source Querido Diário.
 Iremos criar raspadores de alguns municípios do Estado do Ceará de acordo com a documentação do Querido Diário.
 
-Conheça mais sobre as tecnologias e a história do projeto no site do Querido Diário.
+Conheça mais sobre as tecnologias e a história do projeto no <a href="https://queridodiario.ok.org.br/">site do Querido Diário</a>.
+
 
 ## Equipe
 
