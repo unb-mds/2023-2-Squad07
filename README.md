@@ -2,11 +2,16 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/7d/ea/e1/7deae17701b9331152bacb59009b0ded.png" style="width:17vw"/>
     <p> Figura 1: Bandeira do Estado do Ceará</p> 
+    <img src="https://i.pinimg.com/originals/43/72/00/4372007311227f993cc88ee729976790.png" style="width:17vw"/>
+    <p> Figura 1: Logo do Querido Diário</p> 
+    
 </div>
 
 ## Sobre o projeto
-Este repositório servirá para densevolvermos um software com base no projeto open source Querido Diário.
-O Estado que iremos analisar é o Ceará.
+Este repositório contém o trabalho do Squad 07 da disciplina de Métodos de Desenvolvimento de Software. O objetivo é desenvolvermos um software com base no projeto open source Querido Diário.
+Iremos criar raspadores de alguns municípios do Estado do Ceará de acordo com a documentação do Querido Diário.
+
+Conheça mais sobre as tecnologias e a história do projeto no site do Querido Diário.
 
 ## Equipe
 
