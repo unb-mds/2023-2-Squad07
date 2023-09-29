@@ -1,6 +1,6 @@
 # 2023.2 - Squad 07 | Ceará
 <div align="center">
-    <img src="https://pin.it/4sbotda" style="width:17vw"/>
+    <img src="https://pin.it/6lstPoj" style="width:17vw"/>
     <p> Figura 1: Bandeira do Estado do Ceará</p> 
 </div>
 
