@@ -5,12 +5,12 @@ import PyPDF2
 class PdfSpider(scrapy.Spider):
     name = 'pdf_spider'
     allowed_domains = ['juazeirodonorte.ce.gov.br']
-    start_urls = ['https://juazeirodonorte.ce.gov.br/arquivos_download.php?id=3653&pg=diariooficial']
+    start_urls = ['https://juazeirodonorte.ce.gov.br/arquivos_download.php?id=3652&pg=diariooficial']
     text = ''  # Variável de classe para armazenar o texto extraído
 
     def parse(self, response):
         # Baixe o arquivo PDF
-        pdf_path = 'spider01Teste.pdf'
+        pdf_path = 'spider02Teste.pdf'
         with open(pdf_path, 'wb') as f:
             f.write(response.body)
 
@@ -30,5 +30,5 @@ class PdfSpider(scrapy.Spider):
         # Quando o spider é fechado, este método é chamado
         # Aqui você pode fazer o que quiser com o texto extraído
         # Por exemplo, salvar o texto em um arquivo de texto
-        with open('texto_extraido_teste.txt', 'w', encoding='utf-8') as file:
+        with open('texto_extraido_teste02.txt', 'w', encoding='utf-8') as file:
             file.write(self.text)
