@@ -7,4 +7,5 @@ import scrapy
 
 class PdfTextItem(scrapy.Item):
     text = scrapy.Field()
-    pass
+    word_count = scrapy.Field()
+
