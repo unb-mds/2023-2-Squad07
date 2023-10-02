@@ -23,7 +23,6 @@ Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história<
     <td align="center"><a href="https://github.com/juliatakaki"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/72303464?v=4" width="100px;" alt=""/><br /><sub><b>Júlia Takaki</b></sub></a><br />
     <td align="center"><a href="https://github.com/RafaBonach"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104152350?v=4" width="100px;" alt=""/><br /><sub><b>Rafael Bonach</b></sub></a><br />
     <td align="center"><a href="https://github.com/gio221"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/111579005?v=4" width="100px;" alt=""/><br /><sub><b>Giovana Silva</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://github.com/yuri221022210"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/129677966?v=4" width="100px;" alt=""/><br /><sub><b>Yuri Otor</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
-        <td align="center"><a href="https://github.com/samarawwleticia"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/129631162?v=4" width="100px;" alt=""/><br /><sub><b>Samara Letícia</b></sub></a><br />
+    <td align="center"><a href="https://github.com/samarawwleticia"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/129631162?v=4" width="100px;" alt=""/><br /><sub><b>Samara Letícia</b></sub></a><br />
   </tr>
 </table>
