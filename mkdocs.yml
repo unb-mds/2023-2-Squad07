@@ -1,0 +1,6 @@
+site_name: Squad 07 - Ceará
+nav:
+      - Sobre: index.md
+      - Commits: Commits.md
+      - Branches: Branches.md
+theme: readthedocs
