@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Branches - Squad 07 - Ceará</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Branches";
+        var mkdocs_page_input_path = "Branches.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Squad 07 - Ceará
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Sobre</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../Commits/">Commits</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">Branches</a>
+    <ul class="current">
+    </ul>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Squad 07 - Ceará</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">Branches</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <p>Padronização das branches no projeto. </p>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">04/10/2023</td>
+<td style="text-align: center;">0.1</td>
+<td style="text-align: center;">Criação da política de branch</td>
+<td style="text-align: center;"><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="padronizacao-das-branches">Padronização das Branches</h2>
+<p>A adoção de uma abordagem de padronização das branches em sistemas de controle de versão, como o GitHub, é uma prática incrivelmente valiosa para o desenvolvimento colaborativo e eficiente de software. Essa estratégia traz consigo inúmeras vantagens que desempenham um papel fundamental na organização, colaboração e qualidade do código-fonte. A seguir, vamos explorar os benefícios dessa prática e como ela pode aprimorar significativamente o processo de desenvolvimento do nosso projeto.</p>
+<h3 id="prefixos">Prefixos:</h3>
+<ul>
+<li><code>feature</code></li>
+<li><code>hotfix</code></li>
+<li><code>docs</code></li>
+</ul>
+<h3 id="formato">Formato:</h3>
+<pre><code>&lt;prefixo&gt;#número da issue/assunto
+</code></pre>
+<p>Não esquecer de dividir as palavras(sempre minúsculas) do assunto com "-".
+Exemplo: </p>
+<pre><code>feature#87/novo-menu
+</code></pre>
+<h3 id="branches">Branches:</h3>
+<ul>
+<li><strong>Branch main:</strong> Branch que contém o código em nível de produção, será o código mais consolidado existente na aplicação. Nenhum integrante dos times é autorizado a fazer commits diretamente na <em>main.</em></li>
+<li><strong>Branch dev:</strong> Como o nome já diz, é a branch de trabalho no momento do desenvolvimento. São criadas começando com o prefixo <strong>dev/</strong>.</li>
+<li><strong>Branches feature:</strong> Como o nome já diz, são branches na qual são desenvolvidos novos recursos ao projeto. São criadas começando com o prefixo <strong>feature/</strong>.
+Exemplo: <code>feature#22/novo-layout</code></li>
+<li><strong>Branches hotfix:</strong> Branches no qual são realizadas correções de bugs São criadas começando com o prefixo <strong>hotfix/</strong>.
+Exemplo: <code>hotfix#02/correcao-botao</code></li>
+<li><strong>Branches docs:</strong> Branches na qual são desenvolvidos os documentos do projeto. São ciradas começando com o prefixo <strong>docs/</strong>
+Exemplo: <code>docs#49/template-documento</code></li>
+</ul>
+<h3 id="principios">Princípios:</h3>
+<ul>
+<li>Como padronização optamos por nomear as branches em inglês, para toda a duração do projeto.</li>
+</ul>
+<h2 id="referencias">Referências</h2>
+<p>DULCETTI, Bruno. Padrões e nomenclaturas no Git. <em>BrunoDulcetti</em>. Disponível em: <a href="https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/">https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/</a>. Acesso em: 4 de outrubo de 2023.</p>
+<p>2023-05-04-branches. Disponível em: &lt;https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/doc/2023-05-04-branches.md#formato. Acesso em: 4 de outubro de 2023.</p>
+<p>HADLER, Mikael. Utilizando o fluxo Git Flow. <em>Medium</em>. Disponível em: <a href="https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04">https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04</a>. Acesso em: 4 de outubro de 2023.</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../Commits/" class="btn btn-neutral float-left" title="Commits"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../Commits/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

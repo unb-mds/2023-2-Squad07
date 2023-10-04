@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Commits - Squad 07 - Ceará</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Commits";
+        var mkdocs_page_input_path = "Commits.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Squad 07 - Ceará
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Sobre</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">Commits</a>
+    <ul class="current">
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../Branches/">Branches</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Squad 07 - Ceará</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">Commits</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <p>Padronização dos commits no projeto.</p>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">04/10/2023</td>
+<td style="text-align: center;">0.1</td>
+<td style="text-align: center;">Criação da política de commits</td>
+<td style="text-align: center;"><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="semantica-do-commit">Semântica do Commit</h2>
+<p>Os commits devem seguir o seguinte padrão:</p>
+<h3 id="principios">Princípios:</h3>
+<h4 id="commits-atomicos">Commits atômicos</h4>
+<p>Sempre dividir em pequenos e significativos commits, fazendo com que cada commit tenha apenas uma funcionalidade.</p>
+<h4 id="commits-em-portugues">Commits em português</h4>
+<p>Por ser um projeto voltado totalmente para um público brasileiro e por toda equipe ter mais afinidade com o português, foi decidido que todos os commits serão em pt-BR.</p>
+<h3 id="formato">Formato:</h3>
+<pre><code>&lt;tipo&gt;(#número da issue): assunto
+</code></pre>
+<h4 id="tipos">Tipos:</h4>
+<ul>
+<li>:bulb: quando adicionar nova funcionalidade</li>
+<li>:repeat: quando alguma alteração for feita</li>
+<li>:cool: quando melhorias de formato/estrutura do código</li>
+<li>:racehorse: quando melhorar o desempenho</li>
+<li>🚱  quando resolver memory leaks</li>
+<li>:pencil: quando escrever documentação</li>
+<li>:bug: quando consertar um problema</li>
+<li>:fire: quando remover código ou arquivos</li>
+<li>:green_heart: quando consertar problemas de Integração Contínua</li>
+<li>:white_check_mark: quando adicionar testes</li>
+<li>:lock: quando lidar com segurança</li>
+<li>:arrow_up: quando realizar o upgrade de dependências</li>
+<li>:arrow_down: quando realizar downgrade de dependências</li>
+</ul>
+<h4 id="assunto">Assunto:</h4>
+<ul>
+<li>Deve possuir no máximo 50 caracteres</li>
+</ul>
+<p><em>Exemplo de commit:</em></p>
+<pre><code>git commit -m &quot;:bulb:(#02): botão na página inicial&quot;
+</code></pre>
+<h2 id="referencias">Referências</h2>
+<p>DARTORA, João. Tudo o que você precisa saber sobre commits semânticos. <em>Ilegra</em>. Disponível em: <a href="https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/">https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/</a>. Acesso em: 05 de outubro de 2023.</p>
+<p>2023-05-04-commits. Disponível em: <a href="https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/doc/2023-05-04-commits.md">https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/doc/2023-05-04-commits.md</a>. Acesso em: 05 de outubro de 2023.</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href=".." class="btn btn-neutral float-left" title="Sobre"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../Branches/" class="btn btn-neutral float-right" title="Branches">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../Branches/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
