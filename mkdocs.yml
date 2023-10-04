@@ -1,5 +1,5 @@
 site_name: Squad 07
-pages:
-      - Home: docs/README.md
+site_url: https://unb-mds.github.io/2023-2-Squad07/
+      - Home: README.md
       - Scrum: docs/scrum.md
 theme: readthedocs
