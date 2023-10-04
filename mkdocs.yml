@@ -1,4 +1,5 @@
 site_name: My Docs
 nav:
       - Home: README.md
+      - Parser: parsser.md
 theme: readthedocs
