@@ -8,7 +8,7 @@ Padronização dos commits no projeto.
 
 | Data       | Versão | Descrição                      | Autor             |
 | :--------: | :----: | :----------:                   | :---------------: |
-| 04/05/2023 |  0.1   | Criação da política de commits | [Júlia Takaki](https://github.com/juliatakaki)|
+| 04/10/2023 |  0.1   | Criação da política de commits | [Júlia Takaki](https://github.com/juliatakaki)|
 
 ## Semântica do Commit
 

@@ -13,7 +13,7 @@ Padronização das branches no projeto.
 
 
 ## Padronização das Branches
-A adoção de uma abordagem de padronização das branches em sistemas de controle de versão, como o GitHub, é uma prática incrivelmente valiosa para o desenvolvimento colaborativo e eficiente de software. Essa estratégia traz consigo inúmeras vantagens que desempenham um papel fundamental na organização, colaboração e qualidade do código-fonte. A seguir, vamos explorar os benefícios dessa prática e como ela pode aprimorar significativamente o processo de desenvolvimento de software.
+A adoção de uma abordagem de padronização das branches em sistemas de controle de versão, como o GitHub, é uma prática incrivelmente valiosa para o desenvolvimento colaborativo e eficiente de software. Essa estratégia traz consigo inúmeras vantagens que desempenham um papel fundamental na organização, colaboração e qualidade do código-fonte. A seguir, vamos explorar os benefícios dessa prática e como ela pode aprimorar significativamente o processo de desenvolvimento do nosso projeto.
 
 ### Prefixos:
 - ```feature```
