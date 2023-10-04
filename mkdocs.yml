@@ -3,4 +3,5 @@ nav:
       - Sobre: index.md
       - Commits: Commits.md
       - Branches: Branches.md
+      - Persona: persona.md
 theme: readthedocs
