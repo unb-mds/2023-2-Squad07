@@ -1,18 +1,22 @@
 # 2023.2 - Squad 07 | Ceará
 <div align="center">
-    <img src="https://i.pinimg.com/originals/7d/ea/e1/7deae17701b9331152bacb59009b0ded.png" style="width:17vw"/>
+    <img src="https://i.pinimg.com/originals/7d/ea/e1/7deae17701b9331152bacb59009b0ded.png" style="width:15vw"/>
     <p> Figura 1: Bandeira do Estado do Ceará</p> 
-    <img src="https://i.pinimg.com/originals/4b/36/fc/4b36fc30aaa87c5a5ae0f25d2e3a5d89.png" style="width:17vw"/>
-    <p> Figura 2: Logo do Querido Diário</p> 
-    
+    <img src="https://i.pinimg.com/originals/4b/36/fc/4b36fc30aaa87c5a5ae0f25d2e3a5d89.png" style="width:15vw"/>
+    <p> Figura 2: Logo do Querido Diário</p>   
+    <img src="https://i.pinimg.com/originals/a5/34/49/a53449dbf40ab339b1ed613d53d57dfd.png" style="width:15vw"/>
+    <p> Figura 3: Logo do Exoonero</p> 
+       
 </div>
 
 ## Sobre o projeto
-Este repositório contém o trabalho do Squad 07 da disciplina de Métodos de Desenvolvimento de Software. O objetivo é desenvolvermos um software com base no projeto open source Querido Diário.
+Este repositório contém o trabalho do Squad 07 da disciplina de Métodos de Desenvolvimento de Software. O objetivo é desenvolvermos um software com base no projeto open source Querido Diário tendo como projeto referência o Exoonero.
 
 Iremos criar raspadores de alguns municípios do Estado do Ceará de acordo com o padrão do Querido Diário.
 
 Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história</a> do Querido Diário no <a href="https://queridodiario.ok.org.br/">site do Querido Diário</a>.
+
+Saiba mais sobre o <a href="https://exoonero.org/sobre/">Exoonero</a>. 
 
 ## Equipe
 
