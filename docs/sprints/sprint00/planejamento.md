@@ -6,11 +6,11 @@
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :--------------------:                    | :---------------: |
-| 28/08/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
+| 29/08/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Tamanho da Sprint
 
-**Início**: 28/08/24
+**Início**: 29/08/24
 
 **Fim**: 05/09/2024
 
