@@ -16,6 +16,11 @@
 | [#1](https://github.com/unb-mds/2023-2-Squad07/issues/1) | Sprint 0 - Apresentação | _Concluído_ |
 | [#22](https://github.com/unb-mds/2023-2-Squad07/issues/22) | Sprint 0 - Ambientação do Projeto |  _Concluído_|
 
+## Reuniões: Nessa Sprint 0 tivemos apenas uma reunião
+
+| Data       | Tema                             
+| :---------:| :--------------------------:      
+| 28/08/2023 | Apresentação,e ambientação   
 
 ## Avaliação do Scrum Master
 

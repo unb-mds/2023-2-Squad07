@@ -26,8 +26,3 @@
 
 
 
-## Reuniões: Nessa Sprint 1 tivemos apenas uma reunião
-
-| Data       | Tema                             
-| :---------:| :---------------------------------------------:      
-| 05/09/2023 |  REVIEW da Sprint 0 e Planejamento da Sprint 1   

@@ -35,8 +35,3 @@
 | Arquiteto     |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
 | Tecnologistas | [Kaua Victor](https://github.com/Kauanviictor) |
 
-## Reuniões: Nessa Sprint 0 tivemos apenas uma reunião
-
-| Data       | Tema                             
-| :---------:| :--------------------------:      
-| 28/08/2023 | Apresentação,e ambientação   
