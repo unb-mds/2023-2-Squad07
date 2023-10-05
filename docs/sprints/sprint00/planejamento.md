@@ -1,18 +1,18 @@
-### Nesta sprint, ... etc
+### Nesta sprint, a equipe foi se apresentando e se conhecendo, e começou a entender o Scrum e como os pápeis do time de desenvolvimento funcionavam.
 
 #
 
 ## Histórico de Versões
 
-|    Data    | Versão |       Descrição       |
-| :--------: | :----: | :-------------------: |
-| DD/MM/AA |  0.1   | Abertura do documento |
+| Data       | Versão | Descrição                                 | Autor             |
+| :--------: | :----: | :--------------------:                    | :---------------: |
+| 28/08/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Tamanho da Sprint
 
-**Início**: DD/MM/AA
+**Início**: 28/08/24
 
-**Fim**: DD/MM/AA
+**Fim**: 05/09/2024
 
 **Duração**: 7 dias
 
@@ -20,14 +20,23 @@
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#1](https://github.com/fga-eps-mds/2023.1-GuiaUnB/issues/1) |  Sprint 0 - Descrição do Projeto  | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
-| [#3](https://github.com/fga-eps-mds/2023.1-GuiaUnB/issues/3) | Sprint 0 - Ambientação do Projeto | [Arthur Gabriel](https://github.com/ArthurGabrieel) |
+| [#1](https://github.com/unb-mds/2023-2-Squad07/issues/2) |  Sprint 0 - Entender pápeis do time  | [todos] |
+| [#2](https://github.com/unb-mds/2023-2-Squad07/issues/1) | Sprint 0 - Apresentação | [todos] |
+| [#3](https://github.com/unb-mds/2023-2-Squad07/issues/22) | Sprint 0 - Ambientação do Projeto |  [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Papeis
 
 | Função        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Scrum Master  |                                                    [Thiago Freitas](https://github.com/thiagorfreitas)                                                    |
-| PO            |                                                    [Lucas Avelar](https://github.com/LucasAvelar2711)                                                     |
-| Arquiteto     |                                                    [Arthur Gabriel](https://github.com/ArthurGabrieel)                                                    |
-| Tecnologistas | [Igor Ribeiro](https://github.com/igor-ribeir0), [Alexandre Beck](https://github.com/zzzBECK) e [Genilson Junior](https://github.com/GenilsonJrs) |
+| Scrum Master  |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
+| Scrum Master  |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+| PO            |                                                    [José André](https://github.com/joseandre25)                                                     |
+| Arquiteto     |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
+| Arquiteto     |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
+| Tecnologistas | [Kaua Victor](https://github.com/Kauanviictor) |
+
+## Reuniões: Nessa Sprint 0 tivemos apenas uma reunião
+
+| Data       | Tema                             
+| :---------:| :--------------------------:      
+| 28/08/2023 | Apresentação,e ambientação   
