@@ -3,9 +3,9 @@
     <img src="https://i.pinimg.com/originals/7d/ea/e1/7deae17701b9331152bacb59009b0ded.png" style="width:15vw"/>
     <p> Figura 1: Bandeira do Estado do Ceará</p> 
     <img src="https://i.pinimg.com/originals/4b/36/fc/4b36fc30aaa87c5a5ae0f25d2e3a5d89.png" style="width:15vw"/>
-    <p> Figura 2: Logo do Querido Diário</p> 
+    <p> Figura 2: Logo do Querido Diário</p>   
     <img src="https://i.pinimg.com/originals/a5/34/49/a53449dbf40ab339b1ed613d53d57dfd.png" style="width:15vw"/>
-    <p> Figura 2: Logo do Exoonero</p> 
+    <p> Figura 3: Logo do Exoonero</p> 
        
 </div>
 
