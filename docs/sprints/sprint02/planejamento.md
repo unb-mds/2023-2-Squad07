@@ -19,21 +19,24 @@
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#3](https://github.com/unb-mds/2023-2-Squad07/issues/3) | Sprint 1 - Configuração do Ambiente de Desenvolvimento|  [todos]|
-| [#4](https://github.com/unb-mds/2023-2-Squad07/issues/4) | Sprint 1 - Definição de site para contabilização dos horários | [todos] |
-| [#5](https://github.com/unb-mds/2023-2-Squad07/issues/5) |  Sprint 1 - Estudos de novas plataformas  | [todos] |
-| [#24](https://github.com/unb-mds/2023-2-Squad07/issues/24) | Sprint 1 - Documentação da Ata das Reuniões da Sprint 1  |  [Giovana Barbosa ](https://github.com/gio221) |
+| [#7](https://github.com/unb-mds/2023-2-Squad07/issues/7) |  Sprint 2 - Estudo do Coalize como Contabilizador de Horas para o Projeto  | [todos] |
+| [#8](https://github.com/unb-mds/2023-2-Squad07/issues/8) | Sprint 2 - Estudo do Parser|  [todos]|
+| [#9](https://github.com/unb-mds/2023-2-Squad07/issues/9) | Sprint 2 - Implementação da Técnica do Coelho para estudo do python  |   [Julia Takaki](https://github.com/juliatakaki)     |
+| [#10](https://github.com/unb-mds/2023-2-Squad07/issues/10) | Sprint 2 - Estudo dos projetos anteriores| [José André](https://github.com/joseandre25)|
+| [#11](https://github.com/unb-mds/2023-2-Squad07/issues/11) | Sprint 2 - Estudo do Scrum  |  [Giovana Barbosa ](https://github.com/gio221) | |   [Rafael Bonach](https://github.com/RafaBonach)|
+| [#25](https://github.com/unb-mds/2023-2-Squad07/issues/25) | Sprint 0 - Documentação da Ata das Reuniões da Sprint 2  |  [Giovana Barbosa ](https://github.com/gio221) |
+
 
 
 ## Atividade de cada membro
 | Atividade        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Estudo do Parser,Scrum,Coalize e documentação da ata  |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
-| Estudo do Parser,Scrum,Coalize, e aplicou a técnica do coelho  |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
-|Estudo do Parser,Scrum,Coalize e estudo de projetos anteriores           |                                                    [José André](https://github.com/joseandre25)                                                     |
-| Estudo do Parser,Scrum,Coalize    |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
-| Estudo do Parser,Scrum,Coalize     |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
-| Estudo do Parser,Scrum,Coalize | [Kaua Victor](https://github.com/Kauanviictor) |
+| Estudo do Parser e Coalize, documentação da ata e do Scrum  |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
+| Estudo do Parser e Coalize, e aplicou a técnica do coelho em python |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+|Estudo do Parser e Coalize e estudo de projetos anteriores           |                                                    [José André](https://github.com/joseandre25)                                                     |
+| Estudo do Parser e Coalize, documentação do Scrum    |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
+| Estudo do Parser e Coalize     |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
+| Estudo do Parser e Coalize | [Kaua Victor](https://github.com/Kauanviictor) |
 
 ## Reuniões: Nessa Sprint 2 tivemos três reuniões
 
