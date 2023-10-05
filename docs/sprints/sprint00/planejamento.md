@@ -20,9 +20,9 @@
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#1](https://github.com/unb-mds/2023-2-Squad07/issues/2) |  Sprint 0 - Entender pápeis do time  | [todos] |
-| [#2](https://github.com/unb-mds/2023-2-Squad07/issues/1) | Sprint 0 - Apresentação | [todos] |
-| [#3](https://github.com/unb-mds/2023-2-Squad07/issues/22) | Sprint 0 - Ambientação do Projeto |  [Giovana Barbosa ](https://github.com/gio221) |
+| [#2](https://github.com/unb-mds/2023-2-Squad07/issues/2) |  Sprint 0 - Entender pápeis do time  | [todos] |
+| [#1](https://github.com/unb-mds/2023-2-Squad07/issues/1) | Sprint 0 - Apresentação | [todos] |
+| [#22](https://github.com/unb-mds/2023-2-Squad07/issues/22) | Sprint 0 - Ambientação do Projeto |  [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Papeis
 
