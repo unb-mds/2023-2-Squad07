@@ -1,6 +1,7 @@
 site_name: Squad 07 - Ceará
 nav:
       - Sobre: index.md
+      - Plano de Comunicação: plano-de-comunicação.md
       - Commits: Commits.md
       - Branches: Branches.md
 theme: readthedocs
