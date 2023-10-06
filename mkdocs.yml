@@ -7,5 +7,11 @@ nav:
       - Sprints:
         - Sprint 0: 
           - Planejamento: sprints/sprint00/planejamento.md
-          - Resultado: sprints/sprint00/resultado.md  
+          - Resultados: sprints/sprint00/resultados.md  
+        - Sprint 1:
+          - Planejamento: sprints/sprint01/planejamento.md
+          - Resultados: sprints/sprint01/resultado.md
+        - Sprint 2:
+          - Planejamento: sprints/sprint02/planejamento.md
+          - Resultados: sprints/sprint02/resultado.md
 theme: readthedocs
