@@ -4,4 +4,5 @@ nav:
       - Plano de Comunicação: plano-de-comunicação.md
       - Commits: Commits.md
       - Branches: Branches.md
+      - Sprints: sprints/sprint00/planejamento.md
 theme: readthedocs
