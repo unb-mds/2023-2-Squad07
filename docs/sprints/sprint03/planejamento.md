@@ -1,17 +1,17 @@
-### Dedicamos essa sprint para documentarmos 
+### Dedicamos essa sprint para documentação e para definirmos o objetivo e visão do projeto
 #
 
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :--------------------:                    | :---------------: |
-| 12/09/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
+| 19/09/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Tamanho da Sprint
 
-**Início**: 12/09/24
+**Início**: 19/09/24
 
-**Fim**: 19/09/2024
+**Fim**: 26/09/2024
 
 **Duração**: 7 dias
 
@@ -19,9 +19,8 @@
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#7](https://github.com/unb-mds/2023-2-Squad07/issues/7) |  Sprint 2 - Estudo do Coalize como Contabilizador de Horas para o Projeto  | [todos] |
-| [#8](https://github.com/unb-mds/2023-2-Squad07/issues/8) | Sprint 2 - Estudo do Parser|  [todos]|
-| [#9](https://github.com/unb-mds/2023-2-Squad07/issues/9) | Sprint 2 - Implementação da Técnica do Coelho para estudo do python  |   [Julia Takaki](https://github.com/juliatakaki)     |
-| [#10](https://github.com/unb-mds/2023-2-Squad07/issues/10) | Sprint 2 - Estudo dos projetos anteriores| [José André](https://github.com/joseandre25)|
-| [#11](https://github.com/unb-mds/2023-2-Squad07/issues/11) | Sprint 2 - Estudo do Scrum  |  [Giovana Barbosa ](https://github.com/gio221) e [Rafael Bonach](https://github.com/RafaBonach)|
-| [#25](https://github.com/unb-mds/2023-2-Squad07/issues/25) | Sprint 0 - Documentação da Ata das Reuniões da Sprint 2  |  [Giovana Barbosa ](https://github.com/gio221) |
+| [#13](https://github.com/unb-mds/2023-2-Squad07/issues/13) |  Sprint 3 - Documentação do estudo de Python  |[Julia Takaki](https://github.com/juliatakaki)   |
+| [#14](https://github.com/unb-mds/2023-2-Squad07/issues/14) | Sprint 3 - Scrum |  [todos]|
+| [#15](https://github.com/unb-mds/2023-2-Squad07/issues/15) | Sprint 3 - Definir objetivo e visão do projeto| [José André](https://github.com/joseandre25)|
+| [#17](https://github.com/unb-mds/2023-2-Squad07/issues/17) | Sprint 3 - Adicionar documentação do parser  |  [Samara Leticia](https://github.com/samarawwleticia)     |
+| [#31](https://github.com/unb-mds/2023-2-Squad07/issues/31) | Sprint 3 -Documentação da Ata das Reuniões da Sprint 3  |  [Giovana Barbosa ](https://github.com/gio221) |
