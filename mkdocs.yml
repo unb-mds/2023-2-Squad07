@@ -2,9 +2,9 @@ site_name: Squad 07 - Ceará
 nav:
       - Sobre: index.md
       - Políticas:
-        - Plano de Comunicação: plano-de-comunicação.md
-        - Commits: Commits.md
-        - Branches: Branches.md
+        - Plano de Comunicação: políticas/plano-de-comunicação.md
+        - Commits: políticas/Commits.md
+        - Branches: políticas/Branches.md
       - Sprints:
         - Sprint 0: 
           - Planejamento: sprints/sprint00/planejamento.md
