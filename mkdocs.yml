@@ -18,9 +18,10 @@ nav:
         - Sprint 1:
           - Planejamento: sprints/sprint01/planejamento.md
           - Resultados: sprints/sprint01/resultado.md
-        - Sprint 2:
+        - Sprint 2:a
           - Planejamento: sprints/sprint02/planejamento.md
           - Resultados: sprints/sprint02/resultado.md
         - Sprint 3:
           - Planejamento: sprints/sprint03/planejamento.md
+         
 theme: readthedocs

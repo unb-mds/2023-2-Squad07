@@ -9,9 +9,9 @@
 
 ## Tamanho da Sprint
 
-**Início**: 19/09/24
+**Início**: 19/09/23
 
-**Fim**: 26/09/2024
+**Fim**: 26/09/2023
 
 **Duração**: 7 dias
 
