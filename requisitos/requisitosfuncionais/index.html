@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Branches - Squad 07 - Ceará</title>
+    <title>Requisitos Funcionais - Squad 07 - Ceará</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Branches";
-        var mkdocs_page_input_path = "pol\u00edticas/Branches.md";
+        var mkdocs_page_name = "Requisitos Funcionais";
+        var mkdocs_page_input_path = "requisitos/requisitosfuncionais.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -44,14 +44,12 @@
                 </li>
               </ul>
               <p class="caption"><span class="caption-text">Políticas</span></p>
-              <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../plano-de-comunica%C3%A7%C3%A3o/">Plano de Comunicação</a>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../pol%C3%ADticas/plano-de-comunica%C3%A7%C3%A3o/">Plano de Comunicação</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../Commits/">Commits</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../../pol%C3%ADticas/Commits/">Commits</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Branches</a>
-    <ul class="current">
-    </ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../pol%C3%ADticas/Branches/">Branches</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">Sprints</span></p>
@@ -96,8 +94,10 @@
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">Requisitos</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../requisitos/requisitosfuncionais/">Requisitos Funcionais</a>
+              <ul class="current">
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Requisitos Funcionais</a>
+    <ul class="current">
+    </ul>
                   </li>
               </ul>
       </div>
@@ -114,8 +114,8 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
-          <li class="breadcrumb-item">Políticas</li>
-      <li class="breadcrumb-item active">Branches</li>
+          <li class="breadcrumb-item">Requisitos</li>
+      <li class="breadcrumb-item active">Requisitos Funcionais</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -124,66 +124,13 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <p>Padronização das branches no projeto. </p>
-<h2 id="historico-de-versoes">Histórico de Versões</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">Data</th>
-<th style="text-align: center;">Versão</th>
-<th style="text-align: center;">Descrição</th>
-<th style="text-align: center;">Autor</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">04/10/2023</td>
-<td style="text-align: center;">0.1</td>
-<td style="text-align: center;">Criação da política de branch</td>
-<td style="text-align: center;"><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
-</tr>
-</tbody>
-</table>
-<h2 id="padronizacao-das-branches">Padronização das Branches</h2>
-<p>A adoção de uma abordagem de padronização das branches em sistemas de controle de versão, como o GitHub, é uma prática incrivelmente valiosa para o desenvolvimento colaborativo e eficiente de software. Essa estratégia traz consigo inúmeras vantagens que desempenham um papel fundamental na organização, colaboração e qualidade do código-fonte. A seguir, vamos explorar os benefícios dessa prática e como ela pode aprimorar significativamente o processo de desenvolvimento do nosso projeto.</p>
-<h3 id="prefixos">Prefixos:</h3>
-<ul>
-<li><code>feature</code></li>
-<li><code>hotfix</code></li>
-<li><code>docs</code></li>
-</ul>
-<h3 id="formato">Formato:</h3>
-<pre><code>&lt;prefixo&gt;#número da issue/assunto
-</code></pre>
-<p>Não esquecer de dividir as palavras(sempre minúsculas) do assunto com "-".
-Exemplo: </p>
-<pre><code>feature#87/novo-menu
-</code></pre>
-<h3 id="branches">Branches:</h3>
-<ul>
-<li><strong>Branch main:</strong> Branch que contém o código em nível de produção, será o código mais consolidado existente na aplicação. Nenhum integrante dos times é autorizado a fazer commits diretamente na <em>main.</em></li>
-<li><strong>Branch dev:</strong> Como o nome já diz, é a branch de trabalho no momento do desenvolvimento. São criadas começando com o prefixo <strong>dev/</strong>.</li>
-<li><strong>Branches feature:</strong> Como o nome já diz, são branches na qual são desenvolvidos novos recursos ao projeto. São criadas começando com o prefixo <strong>feature/</strong>.
-Exemplo: <code>feature#22/novo-layout</code></li>
-<li><strong>Branches hotfix:</strong> Branches no qual são realizadas correções de bugs São criadas começando com o prefixo <strong>hotfix/</strong>.
-Exemplo: <code>hotfix#02/correcao-botao</code></li>
-<li><strong>Branches docs:</strong> Branches na qual são desenvolvidos os documentos do projeto. São ciradas começando com o prefixo <strong>docs/</strong>
-Exemplo: <code>docs#49/template-documento</code></li>
-</ul>
-<h3 id="principios">Princípios:</h3>
-<ul>
-<li>Como padronização optamos por nomear as branches em inglês, para toda a duração do projeto.</li>
-</ul>
-<h2 id="referencias">Referências</h2>
-<p>DULCETTI, Bruno. Padrões e nomenclaturas no Git. <em>BrunoDulcetti</em>. Disponível em: <a href="https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/">https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/</a>. Acesso em: 4 de outrubo de 2023.</p>
-<p>2023-05-04-branches. Disponível em: &lt;https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/doc/2023-05-04-branches.md#formato. Acesso em: 4 de outubro de 2023.</p>
-<p>HADLER, Mikael. Utilizando o fluxo Git Flow. <em>Medium</em>. Disponível em: <a href="https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04">https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04</a>. Acesso em: 4 de outubro de 2023.</p>
+                <h2 id="teste">Teste</h2>
+<h1 id="teste_1">Teste</h1>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../Commits/" class="btn btn-neutral float-left" title="Commits"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../../sprints/sprint00/planejamento/" class="btn btn-neutral float-right" title="Planejamento">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../../sprints/sprint04/planejamento/" class="btn btn-neutral float-left" title="Planejamento"><span class="icon icon-circle-arrow-left"></span> Previous</a>
     </div>
 
   <hr/>
@@ -206,10 +153,8 @@ Exemplo: <code>docs#49/template-documento</code></li>
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../Commits/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../../sprints/sprint04/planejamento/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
-    
-      <span><a href="../../sprints/sprint00/planejamento/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
