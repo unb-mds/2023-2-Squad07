@@ -1,4 +1,6 @@
-### Nesta sprint, começamos a evoluir na ideia para o projeto, com o PO estudando os projetos anteriores, ultilizamos a técnica do coelho para entender melhor o python e também estudamos mais as metodologias que usaremos no projeto. Também decidimos que teriamos três reuniões durante uma sprint, sendo uma delas a Review e Planejamento e as outras duas seriam dailys, para podermos monitorar melhor o avanço da equipe no projeto.
+### Oque fizemos
+
+ Nesta sprint, começamos a evoluir na ideia para o projeto, com o PO estudando os projetos anteriores, ultilizamos a técnica do coelho para entender melhor o python e também estudamos mais as metodologias que usaremos no projeto. Também decidimos que teriamos três reuniões durante uma sprint, sendo uma delas a Review e Planejamento e as outras duas seriam dailys, para podermos monitorar melhor o avanço da equipe no projeto.
 #
 
 ## Histórico de Versões

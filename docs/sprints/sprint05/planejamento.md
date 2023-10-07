@@ -1,4 +1,6 @@
-### Nesta sprint reorganizamos noso mkdcos e documentações, fizemos o prototipo, o backlog, a arquitetura e o story map. Também fizemos a logo e definimos o nome.
+### Oque fizemos
+
+Nesta sprint reorganizamos noso mkdcos e documentações, fizemos o prototipo, o backlog, a arquitetura e o story map. Também fizemos a logo e definimos o nome.
 #
 
 ## Histórico de Versões

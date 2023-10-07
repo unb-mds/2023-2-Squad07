@@ -1,4 +1,6 @@
-### Nesta sprint estuadamos mais aprofundado o querido diário e começamos a estudar o scrapy para coleta de dados
+### Oque fizemos
+
+Nesta sprint estuadamos mais aprofundado o querido diário e começamos a estudar o scrapy para coleta de dados
 #
 
 ## Histórico de Versões

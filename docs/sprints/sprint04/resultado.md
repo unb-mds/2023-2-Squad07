@@ -1,4 +1,6 @@
-### Durante esta sprint, focamos muito no aprendizado sobreas documentações e da visão de projeto
+### Oque fizemos
+
+Durante esta sprint, focamos muito no aprendizado sobreas documentações e da visão de projeto
 
 #
 

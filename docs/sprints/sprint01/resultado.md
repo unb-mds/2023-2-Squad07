@@ -1,4 +1,6 @@
-### Durante esta sprint, focamos muito na organização da equipe, configurando os ambientes de desenvolvimento de cada um, estudando novas plataformas e nos ambientando melhor em como trabalhar em equipe.Também definimos uma planilha para definião de horas
+### Oque fizemos
+
+Durante esta sprint, focamos muito na organização da equipe, configurando os ambientes de desenvolvimento de cada um, estudando novas plataformas e nos ambientando melhor em como trabalhar em equipe.Também definimos uma planilha para definião de horas
 
 #
 

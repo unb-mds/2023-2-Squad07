@@ -1,4 +1,6 @@
-### Dedicamos essa sprint para documentação e para definirmos o objetivo e visão do projeto
+### Oque fizemos
+
+Dedicamos essa sprint para documentação e para definirmos o objetivo e visão do projeto
 #
 
 ## Histórico de Versões

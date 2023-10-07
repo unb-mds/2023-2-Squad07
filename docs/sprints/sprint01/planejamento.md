@@ -1,4 +1,6 @@
-### Nesta sprint, a equipe estudou o projeto Querido Diário,e configuramos os ambientes de desenvolvimento como o Git,VsCode, Linux e python3. Além disso, houve uma organização do tempo disponível de cada membro, para que pudéssemos agendar reuniões onde todos ou a maioria pudessem estar presentes. Também foi iniciada uma discussão sobre a importância da arquitetura de software e quais possíveis arquiteturas poderíamos utilizar.
+### Oque fizemos
+
+Nesta sprint, a equipe estudou o projeto Querido Diário,e configuramos os ambientes de desenvolvimento como o Git,VsCode, Linux e python3. Além disso, houve uma organização do tempo disponível de cada membro, para que pudéssemos agendar reuniões onde todos ou a maioria pudessem estar presentes. Também foi iniciada uma discussão sobre a importância da arquitetura de software e quais possíveis arquiteturas poderíamos utilizar.
 #
 
 ## Histórico de Versões

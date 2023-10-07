@@ -1,4 +1,6 @@
-### Nesta sprint focamos em estudar os projetos anteriores, e começar a documentar nossos estudos, e também tivemos a primeira experiêncai com a técnica do coelho.
+### Oque fizemos
+ 
+Nesta sprint focamos em estudar os projetos anteriores, e começar a documentar nossos estudos, e também tivemos a primeira experiêncai com a técnica do coelho.
 
 #
 

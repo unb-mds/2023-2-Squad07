@@ -1,4 +1,6 @@
-### Nesta sprint, a equipe foi se apresentando e se conhecendo, e começou a entender o Scrum e como os pápeis do time de desenvolvimento funcionavam.
+### Oque fizemos
+
+Nesta sprint, a equipe foi se apresentando e se conhecendo, e começou a entender o Scrum e como os pápeis do time de desenvolvimento funcionavam.
 
 #
 

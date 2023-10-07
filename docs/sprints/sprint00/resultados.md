@@ -1,4 +1,6 @@
-### Durante esta sprint, foram atribuídos os papéis de Scrum Master, PO e Arquiteto. Essa sprint foi dedicada a ambientação e apresentação da equipe, usamos essa semana para entendermos melhor a metodologia do Scrum e nos ambientar nela
+### Oque fizemos
+
+ Durante esta sprint, foram atribuídos os papéis de Scrum Master, PO e Arquiteto. Essa sprint foi dedicada a ambientação e apresentação da equipe, usamos essa semana para entendermos melhor a metodologia do Scrum e nos ambientar nela
 
 #
 
