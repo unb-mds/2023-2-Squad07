@@ -28,4 +28,4 @@ nav:
           - Planejamento: sprints/sprint04/planejamento.md
       - Requisitos:
         - Requisitos Funcionais: requisitos/requisitosfuncionais.md
-theme: readthedocs
+theme: material
