@@ -35,8 +35,8 @@
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
 | 19/09/2023 |  REVIEW da Sprint 2 e Planejamento da Sprint 3   
-| 21/09/2023 |  daily  
-| 23/09/2023 |  daily
+| 21/09/2023 |  daily  para verificamos as documentações
+| 23/09/2023 |  daily  para redefinir as issue
 
 ## Avaliação do Scrum Master
 
