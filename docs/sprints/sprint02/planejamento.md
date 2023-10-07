@@ -24,4 +24,4 @@
 | [#9](https://github.com/unb-mds/2023-2-Squad07/issues/9) | Sprint 2 - Implementação da Técnica do Coelho para estudo do python  |   [Julia Takaki](https://github.com/juliatakaki)     |
 | [#10](https://github.com/unb-mds/2023-2-Squad07/issues/10) | Sprint 2 - Estudo dos projetos anteriores| [José André](https://github.com/joseandre25)|
 | [#11](https://github.com/unb-mds/2023-2-Squad07/issues/11) | Sprint 2 - Estudo do Scrum  |  [Giovana Barbosa ](https://github.com/gio221) e [Rafael Bonach](https://github.com/RafaBonach)|
-| [#25](https://github.com/unb-mds/2023-2-Squad07/issues/25) | Sprint 0 - Documentação da Ata das Reuniões da Sprint 2  |  [Giovana Barbosa ](https://github.com/gio221) |
+| [#25](https://github.com/unb-mds/2023-2-Squad07/issues/25) | Sprint 2 - Documentação da Ata das Reuniões da Sprint 2  |  [Giovana Barbosa ](https://github.com/gio221) |

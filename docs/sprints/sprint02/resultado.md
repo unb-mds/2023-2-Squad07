@@ -17,7 +17,7 @@
 | [#9](https://github.com/unb-mds/2023-2-Squad07/issues/9) | Sprint 2 - Implementação da Técnica do Coelho para estudo do python  | _Concluído_ |
 | [#10](https://github.com/unb-mds/2023-2-Squad07/issues/10) | Sprint 2 - Estudo dos projetos anteriores| _Concluído_|
 | [#11](https://github.com/unb-mds/2023-2-Squad07/issues/11) | Sprint 2 - Estudo do Scrum  | _Concluído_|
-| [#25](https://github.com/unb-mds/2023-2-Squad07/issues/25) | Sprint 0 - Documentação da Ata das Reuniões da Sprint 2  | _Concluído_ | 
+| [#25](https://github.com/unb-mds/2023-2-Squad07/issues/25) | Sprint 2 - Documentação da Ata das Reuniões da Sprint 2  | _Concluído_ | 
 
 ## Atividade de cada membro
 | Atividade        |                                                                           Nome                                                                            |
