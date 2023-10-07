@@ -23,6 +23,8 @@
 | [#4](https://github.com/unb-mds/2023-2-Squad07/issues/4) | Sprint 1 - Definição de site para contabilização dos horários | [todos] |
 | [#5](https://github.com/unb-mds/2023-2-Squad07/issues/5) |  Sprint 1 - Estudos de novas plataformas  | [todos] |
 | [#24](https://github.com/unb-mds/2023-2-Squad07/issues/24) | Sprint 1 - Documentação da Ata das Reuniões da Sprint 1  |  [Giovana Barbosa ](https://github.com/gio221) |
+| [#38](https://github.com/unb-mds/2023-2-Squad07/issues/38) | Sprint 1 - Criação de Planilha de Definição de Horário1  |  [Giovana Barbosa ](https://github.com/gio221) |
+
 
 
 

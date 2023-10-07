@@ -1,4 +1,4 @@
-### Durante esta sprint, focamos muito na organização da equipe, configurando os ambientes de desenvolvimento de cada um, estudando novas plataformas e nos ambientando melhor em como trabalhar em equipe.
+### Durante esta sprint, focamos muito na organização da equipe, configurando os ambientes de desenvolvimento de cada um, estudando novas plataformas e nos ambientando melhor em como trabalhar em equipe.Também definimos uma planilha para definião de horas
 
 #
 
@@ -16,6 +16,8 @@
 | [#4](https://github.com/unb-mds/2023-2-Squad07/issues/4) | Sprint 1 - Definição de site para contabilização dos horários | _Concluído_ |
 |[#5](https://github.com/unb-mds/2023-2-Squad07/issues/5) |  Sprint 1 - Estudos de novas plataformas   |  _Concluído_|
 | [#24](https://github.com/unb-mds/2023-2-Squad07/issues/24) | Sprint 1 - Documentação da Ata das Reuniões da Sprint  |  _Concluído_|
+| [#38](https://github.com/unb-mds/2023-2-Squad07/issues/38) | Sprint 1 - Criação de Planilha de Definição de Horário1  |  _Concluído_ |
+
 
 ## Atividade de cada membro
 | Atividade        |                                                                           Nome                                                                            |
