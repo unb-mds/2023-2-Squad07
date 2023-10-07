@@ -20,8 +20,8 @@ Nessa sprint um dos nossos integrantes Yuri acabou trancando a máteria
 
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#13](https://github.com/unb-mds/2023-2-Squad07/issues/13) |  Sprint 3 - Documentação do estudo de Python  |[Julia Takaki](https://github.com/juliatakaki)   |
-| [#14](https://github.com/unb-mds/2023-2-Squad07/issues/14) | Sprint 3 - Scrum |  [todos]|
-| [#15](https://github.com/unb-mds/2023-2-Squad07/issues/15) | Sprint 3 - Definir objetivo e visão do projeto| [José André](https://github.com/joseandre25)|
-| [#17](https://github.com/unb-mds/2023-2-Squad07/issues/17) | Sprint 3 - Adicionar documentação do parser  |  [Samara Leticia](https://github.com/samarawwleticia)     |
-| [#31](https://github.com/unb-mds/2023-2-Squad07/issues/31) | Sprint 3 -Documentação da Ata das Reuniões da Sprint 3  |  [Giovana Barbosa ](https://github.com/gio221) |
+| [#12](https://github.com/unb-mds/2023-2-Squad07/issues/12) |  Sprint 4 - Documentação do etime  |[todos] |
+| [#16](https://github.com/unb-mds/2023-2-Squad07/issues/16) | Sprint 4 - Levantamento de Requisitos e Definição do Backlog Inicial | [José André](https://github.com/joseandre25) |
+| [#18](https://github.com/unb-mds/2023-2-Squad07/issues/18) | Sprint 4 - Implementação do Scrapy para Coleta de Dados| [todos]|
+| [#19](https://github.com/unb-mds/2023-2-Squad07/issues/19) | Sprint 4 - studo do Projeto Querido Diário | [todos] |
+| [#32](https://github.com/unb-mds/2023-2-Squad07/issues/32) | Sprint 4 -Documentação da Ata das Reuniões da Sprint 4   |  [Giovana Barbosa ](https://github.com/gio221) |
