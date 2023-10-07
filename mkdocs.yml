@@ -26,6 +26,10 @@ nav:
           - Resultados: sprints/sprint03/resultado.md
         - Sprint 4:
           - Planejamento: sprints/sprint04/planejamento.md
+          - Resultado: sprints/sprint04/resultado.md
+        - Sprint 5:
+          - Planejamento: sprints/sprint05/planejamento.md
+          - Resultado: sprints/sprint05/resultado.md
       - Requisitos:
         - Requisitos Funcionais: requisitos/requisitosfuncionais.md
 theme: material

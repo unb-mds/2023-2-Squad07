@@ -33,5 +33,5 @@
 | Arquiteto     |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
 | Dev Team      |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
 | Dev Team      |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
-| Dev Team      | [Kaua Victor](https://github.com/Kauanviictor) |
+
 

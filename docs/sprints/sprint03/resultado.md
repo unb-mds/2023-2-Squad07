@@ -30,7 +30,7 @@
 | Estudo do scrum   | [Kaua Victor](https://github.com/Kauanviictor) |
 
 
-## Reuniões: Nessa Sprint 3 tivemos apenas uma reunião
+## Reuniões: Nessa Sprint 3 tivemos três reuniões
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
