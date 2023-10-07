@@ -29,9 +29,9 @@
 | Função        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Scrum Master  |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
-| Scrum Master  |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
 | PO            |                                                    [José André](https://github.com/joseandre25)                                                     |
 | Arquiteto     |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
-| Arquiteto     |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
-| Tecnologistas | [Kaua Victor](https://github.com/Kauanviictor) |
+| Dev Team      |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+| Dev Team      |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
+| Dev Team      | [Kaua Victor](https://github.com/Kauanviictor) |
 
