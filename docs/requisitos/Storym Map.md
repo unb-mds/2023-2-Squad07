@@ -62,3 +62,15 @@ Um User Story Map é uma ferramenta visual que ajuda a equipe a entender e plane
 
 #### História de Usuário (HU): Ver Quantidade de Editais por Município
 -Como um usuário, quero poder visualizar a quantidade de editais de licitação abertos por cada município do Estado do Ceará em um período de tempo específico.
+
+#
+### Épico: Município que mais abre edital de licitação e os que menos abre
+
+#### Feature: Destacar Municípios Principais e Menos Frequentes
+- Os usuários podem ver facilmente qual município mais abre edital de licitação e qual é o que menos abre.
+
+#### História de Usuário (HU): Visualizar Município que mais abre editais
+- Como um usuário, quero poder ver qual município no Estado do Ceará mais frequentemente abre editais de licitação.
+
+#### História de Usuário (HU): Visualizar Município que menos abre editais
+- Como um usuário, quero poder ver qual município no Estado do Ceará menos frequentemente abre editais de licitação.
