@@ -1,18 +1,21 @@
 ---
 tag: "requisitos"
 ---
-Criação do arquivo de Story Map
+Criação do User Story Map
 
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :----------:                              | :---------------: |
-| 07/10/2023 |  0.1   | Criação do arquivo de Story  Map             | [Júlia Takaki](https://github.com/juliatakaki)
+| 07/10/2023 |  0.1   | Criação do User Story Map             | [Júlia Takaki](https://github.com/juliatakaki)
 
 ### Quadro das funcionalidades
 Um User Story Map é uma ferramenta visual que ajuda a equipe a entender e planejar as funcionalidades de uma aplicação de maneira mais estruturada e centrada no usuário. Ele é particularmente útil no contexto de desenvolvimento ágil, como o Scrum. O quadro abaixo apresenta os principais conceitos envolvidos, como cards épicos, features e histórias de usuário (HU's).
 
-![Esquema do Story Map](storymap.png)
+<figure>
+  <img src="assets/storymap.png" alt="User Story Map">
+  <figcaption>User Story Map</figcaption>
+</figure>
 
 ## Explicação do diagrama
 
