@@ -38,7 +38,7 @@ Com essa solução, esperamos que os moradores de municípios do interior possam
 O sistema será composto por uma aplicação web que terá uma interface onde o usuário poderá selecionar o município do Ceará, filtrar uma palavra chave e um intervalo de tempo. Através dessa consulta, o sistema retornará todos os diários oficiais em forma de citação que a palavra chave foi encontrada. O sistema abordará em específico a quantidade de abertura de editais de licitação lançados nos diários oficiais dos municípios, expondo isso ao usuário em forma gráfica.
 
 ## Público Alvo
-O público-alvo do TemDisso pode ser bastante diversificado, incluindo:
+O público-alvo pode ser bastante diversificado, incluindo:
 
 - **Cidadãos Locais:** Moradores do município que desejam ficar informados sobre as ações e decisões do governo que afetam sua comunidade.
 
