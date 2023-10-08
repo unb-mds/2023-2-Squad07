@@ -1,5 +1,13 @@
 # Descrição do Problema: Facilitando o Acesso ao Diário Oficial Municipal de Municípios do Ceará
 
+## Histórico de Versões
+
+
+| Data       | Versão | Descrição                      | Autor             |
+| :--------: | :----: | :----------:                   | :---------------: |
+| 04/10/2023 |  0.1   | Criação da visão do produto | [José André](https://github.com/joseandre25)|
+
+
 ## Contexto:
 Em muitos municípios do interior, a transparência governamental é essencial para garantir que os cidadãos estejam cientes das decisões e ações do governo local. O Diário Oficial é uma ferramenta crucial nesse processo, pois publica informações oficiais, como decretos, leis, editais, licitações e outros documentos que impactam a vida dos residentes locais. No entanto, a dificuldade de localizar e acessar informações específicas do Diário Oficial de municípios pequenos tem sido um desafio constante para os stakeholders interessados.
 
