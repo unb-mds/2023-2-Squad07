@@ -2,7 +2,7 @@
 
   |Data|Versão|Alteração|Autor|  
   |----|------|---------|-----|  
-  |06/05/2023|0.1|Abertura do documento de Arquitetura|[Rafael Bonach](https://github.com/RafaBonach)|
+  |08/10/2023|0.1|Abertura do documento de Arquitetura|[Rafael Bonach](https://github.com/RafaBonach)|
   
   
 ## 1. Introdução
@@ -14,6 +14,6 @@ Essa documentação engloba as funções visadas pelo projeto, além das tecnolo
 
 ## 1.3 Diagrama de Sequências UML
 <figure>
-  <img src="assets/Diagrama de Sequências.png" alt="sequencediagram">
+  <img src="../assets/Diagrama de Sequências.png" alt="sequencediagram">
   <figcaption>Sequence Diagram</figcaption>
 </figure>
