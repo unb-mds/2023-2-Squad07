@@ -12,10 +12,7 @@ Criação do User Story Map
 ### Quadro das funcionalidades
 Um User Story Map é uma ferramenta visual que ajuda a equipe a entender e planejar as funcionalidades de uma aplicação de maneira mais estruturada e centrada no usuário. Ele é particularmente útil no contexto de desenvolvimento ágil, como o Scrum. O quadro abaixo apresenta os principais conceitos envolvidos, como cards épicos, features e histórias de usuário (HU's).
 
-<figure>
-  <img src="assets/storymap.png" alt="User Story Map">
-  <figcaption>User Story Map</figcaption>
-</figure>
+![Esquema do Story Map](assets/storymap.png)
 
 ## Explicação do diagrama
 
