@@ -12,6 +12,7 @@ nav:
         - Commits: políticas/Commits.md
         - Branches: políticas/Branches.md
       - Requisitos:
+        - Visão do Produto: requisitos/visaodoproduto.md
         - Requisitos Funcionais: requisitos/requisitosfuncionais.md
         - Requisitos Não-Funcionais: requisitos/requisitosnaofuncionais.md
         - User Story Map: requisitos/userstorymap.md
