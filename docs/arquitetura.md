@@ -14,6 +14,6 @@ Essa documentação engloba as funções visadas pelo projeto, além das tecnolo
 
 ## 1.3 Diagrama de Sequências UML
 <figure>
-  <img src="assets/Diagrama de Sequências.png" alt="storymap">
-  <figcaption>User Story Map</figcaption>
+  <img src="assets/Diagrama de Sequências.png" alt="sequencediagram">
+  <figcaption>Sequence Diagram</figcaption>
 </figure>
