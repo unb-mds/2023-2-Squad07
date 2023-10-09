@@ -16,10 +16,3 @@ Nesta documentação, abordaremos os conceitos, processos e melhores práticas e
 ![](<../assets/Tela 3.png>)
 Criado por [Giovana Barbosa ](https://github.com/gio221)  
 
-## 3.Protótipo de Alta Fidelidade
-
-Desenvolvido a partir da ideia inicial dos protótipos de baixa fidelidade.
-
-
-
-Criado por [Giovana Barbosa ](https://github.com/gio221)  

@@ -26,7 +26,9 @@ nav:
         - User Story Map: requisitos/userstorymap.md
         - Backlog: requisitos/backlog.md
         - Arquitetura: requisitos/arquitetura.md
-        - Prototipo: requisitos/Prototipo/Prototipo.md
+        - Prototipo:
+          - Prototipo Baixa Fidelidade: requisitos/Prototipo/PrototipoBaixa.md
+          - Prototipo Alta Fidelidade: requisitos/Prototipo/PrototipoAlta.md
       - Sprints:
         - Sprint 0: 
           - Planejamento: sprints/sprint00/planejamento.md
