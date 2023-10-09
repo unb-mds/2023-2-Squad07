@@ -1,11 +1,13 @@
-# 2023.2 - Squad 07 | Ceará
+# 2023.2 - Squad 07 | LicitaX
 <div align="center">
+    <img src="https://i.pinimg.com/originals/2c/33/37/2c33379a80c22c6b3c73a553d2049fdb.png" style="width:15vw"/>
+    <p> Figura 1: Logo do LicitaX</p> 
     <img src="https://i.pinimg.com/originals/7d/ea/e1/7deae17701b9331152bacb59009b0ded.png" style="width:15vw"/>
-    <p> Figura 1: Bandeira do Estado do Ceará</p> 
+    <p> Figura 2: Bandeira do Estado do Ceará</p> 
     <img src="https://i.pinimg.com/originals/4b/36/fc/4b36fc30aaa87c5a5ae0f25d2e3a5d89.png" style="width:15vw"/>
-    <p> Figura 2: Logo do Querido Diário</p>   
+    <p> Figura 3: Logo do Querido Diário</p>   
     <img src="https://i.pinimg.com/originals/a5/34/49/a53449dbf40ab339b1ed613d53d57dfd.png" style="width:15vw"/>
-    <p> Figura 3: Logo do Exoonero</p> 
+    <p> Figura 4: Logo do Exoonero</p> 
        
 </div>
 
