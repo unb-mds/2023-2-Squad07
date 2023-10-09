@@ -18,4 +18,8 @@ Nesta sprint apresentamos a professora a arquitetura, o strory map, a documenta�
 **Duração**: 7 dias
 
 ## Objetivos
-
+|                            Issue                             |              Título               |                    Responsáveis                     |
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
+| [#47](https://github.com/unb-mds/2023-2-Squad07/issues/47) |  Sprint 6 - Criação do Backlog do Projeto  | [Giovana Barbosa ](https://github.com/gio221) e  [José André](https://github.com/joseandre25)  |
+| [#48](https://github.com/unb-mds/2023-2-Squad07/issues/48) |  Sprint 6 - Edição do Story Map do Projetoo |[Giovana Barbosa ](https://github.com/gio221) e  [José André](https://github.com/joseandre25) |
+ [#49](https://github.com/unb-mds/2023-2-Squad07/issues/49) |  Sprint 6 -Criação do Protótipo de Alta Fidelidade |[Giovana Barbosa ](https://github.com/gio221) |
