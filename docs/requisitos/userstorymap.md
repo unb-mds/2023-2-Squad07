@@ -90,8 +90,8 @@ Como usuário, quero poder visualizar a quantidade de editais de licitação abe
 
 #### Feature: Destacar o que mais abre e o que menos abre
 
-###### História de Usuário (HU):Poder ver qual municipio mais abre ediatis de licitação
+##### História de Usuário (HU):Poder ver qual municipio mais abre ediatis de licitação
 -Como usuário, quero poder ver qual município no Estado do Ceará que mais abre editais de licitação.
 
-###### História de Usuário (HU):Poder ver qual municipio menos abre ediatis de licitação
+##### História de Usuário (HU):Poder ver qual municipio menos abre ediatis de licitação
 -Como usuário, quero poder ver qual município no Estado do Ceará que menos abre editais de licitação.

@@ -27,8 +27,6 @@ Durante esta sprint,criamos um nome e logo para o projeto, definimos o StoryMap 
 | [#35](https://github.com/unb-mds/2023-2-Squad07/issues/35) |  Sprint 5 - Desenvolver arquitetura do projeto |_Concluído_ |
 | [#36](https://github.com/unb-mds/2023-2-Squad07/issues/36) |  Sprint 5 -  Definição de Nome da Aplicação Web|_Concluído_|
 | [#37](https://github.com/unb-mds/2023-2-Squad07/issues/37) |  Sprint 5 - Documentação da Ata das Reuniões da Sprint 5 |_Concluído_ |
-
-
 | [#39](https://github.com/unb-mds/2023-2-Squad07/issues/39) |  Sprint 5 - Criar Protótipo de Baixa Fidelidade |_Concluído_ |
 | [#46](https://github.com/unb-mds/2023-2-Squad07/issues/46) |  Sprint 5 -  Adicionar a Logo do LicitaX ao Readme e ao Index #|_Concluído_ |
 | [#45](https://github.com/unb-mds/2023-2-Squad07/issues/45) |  Sprint 5 - Criação da contribuição  |_Concluído_ |
