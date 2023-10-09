@@ -10,7 +10,7 @@
     </div>
     <div style="display: inline-block; width: 30%; text-align: center;">
         <img src="https://i.pinimg.com/originals/a5/34/49/a53449dbf40ab339b1ed613d53d57dfd.png" style="width: 20%;"/>
-        <p>Figura 2: Logo do Exoonero</p>
+        <p>Figura 3: Logo do Exoonero</p>
     </div>
 </div>
 
