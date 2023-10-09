@@ -42,11 +42,11 @@ Durante esta sprint,criamos um nome e logo para o projeto, definimos o StoryMap 
 
 | Atividade        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Prototipo de Baixa Fidelidade, definição nome e logo  |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
-| Estudo do scrum e documentação do python |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
-|Estudo do scrum e definiu objetivo e visão do projeto          |                [José André](https://github.com/joseandre25)                                                     |
-| Estudo do scrum  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
-|Estudo do scrum  e documentação do parser   |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
+| Prototipo de Baixa Fidelidade, definição nome e logo, e documentação da ata |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
+| Documentou issue template, contribuição,gerenciamento de risco, codigo de conduta, commits, branches , story map  e organizou pastas |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+|Criou gitpag,definiu nome e logo, definiu visão de produto , personas e perfil de usuário e arquitetura   |                [José André](https://github.com/joseandre25)                                                     |
+| Desenvolveu arquitetura, definiu logo e nome e organizou repositorio  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
+|Definiu personas   |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
 
 
 ## Reuniões: Nessa Sprint 5 tivemos quatro reuniôes

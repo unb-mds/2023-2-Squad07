@@ -9,10 +9,10 @@ Nesta documentação, abordaremos os conceitos, processos e melhores práticas e
 
 ## 2.Protótipo de Baixa Fidelidade
 
-![](../assets/Tela-Sobre.png)
-![](../assets/Tela-Inicial.png)
-![](<../assets/Tela 1.png>)
-![](<../assets/Tela 2.png>)
-![](<../assets/Tela 3.png>)
+![](../../assets/Tela-Sobre.png)
+![](../../assets/Tela-Inicial.png)
+![](<../../assets/Tela 1.png>)
+![](<../../assets/Tela 2.png>)
+![](<../../assets/Tela 3.png>)
 Criado por [Giovana Barbosa ](https://github.com/gio221)  
 
