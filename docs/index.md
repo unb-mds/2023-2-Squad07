@@ -1,16 +1,16 @@
 # 2023.2 - Squad 07 | LicitaX
 <div align="center">
     <div style="display: inline-block; width: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/originals/bd/db/4d/bddb4d5d400a2724f5a94b3982d3d61e.png" style="width: 35%;"/>
-        <p>Figura 1: Logo do LicitaX</p>
+        <img src="https://i.pinimg.com/originals/bd/db/4d/bddb4d5d400a2724f5a94b3982d3d61e.png" style="width: 100%;"/>
+        <p>Logo do LicitaX</p>
     </div>
     <div style="display: inline-block; width: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/originals/4b/36/fc/4b36fc30aaa87c5a5ae0f25d2e3a5d89.png" style="width: 20%;"/>
-        <p>Figura 3: Logo do Querido Diário</p>
+        <img src="https://i.pinimg.com/originals/67/30/d0/6730d0bc5c97a7b007d22201f2fe815f.png" style="width: 130%;"/>
+        <p>Logo do Querido Diário</p>
     </div>
     <div style="display: inline-block; width: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/originals/a5/34/49/a53449dbf40ab339b1ed613d53d57dfd.png" style="width: 20%;"/>
-        <p>Figura 4: Logo do Exoonero</p>
+        <img src="https://i.pinimg.com/originals/de/0d/80/de0d804c0bf6039ce0f3d928a56dfc20.png" style="width: 100%;"/>
+        <p>Logo do Exoonero</p>
     </div>
 </div>
 
