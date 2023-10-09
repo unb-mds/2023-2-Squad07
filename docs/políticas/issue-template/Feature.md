@@ -1,5 +1,5 @@
 ---
-tag: "politicas"
+tag: "políticas"
 ---
 
 ## Histórico de versões
@@ -8,28 +8,17 @@ tag: "politicas"
 | :--------: | :----: | :----------------------------: | :-------: |
 | 08/10/2023 |  0.1   |     Abertura do documento      | [Júlia Takaki](https://github.com/juliatakaki) |
 
-## Descrição
-[Descreva aqui o problema ou a solicitação de recurso de forma clara e concisa]
+## Descrição da Solicitação de Recurso
+[Descreva aqui a solicitação de recurso de forma clara e concisa]
 
-## Etapas para Reproduzir o Problema
-[Se o problema é um bug, forneça as etapas para reproduzir o problema]
+## Benefícios
+[Explique como esse recurso irá beneficiar o projeto ou os usuários finais]
 
-1. ...
-2. ...
-3. ...
-
-## Comportamento Esperado
-[Descreva o comportamento que você espera que ocorra]
-
-## Comportamento Atual
-[Descreva o comportamento atual que está causando o problema]
-
-## Ambiente
-- Sistema operacional: [insira o nome e a versão do sistema operacional]
-- Versão do Speak Up: [insira a versão do Speak Up que você está usando]
+## Detalhes Técnicos
+[Se aplicável, forneça detalhes técnicos sobre como essa solicitação de recurso pode ser implementada]
 
 ## Informações Adicionais
-[Inclua informações adicionais relevantes, como logs de erro ou outras informações que possam ser úteis para entender e resolver o problema]
+[Inclua informações adicionais relevantes, como links para recursos externos, exemplos de outros projetos que possam ter uma implementação semelhante etc.]
 
-## 6. Referências
-bug_report. Disponível em: <https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/git_pages_doc/docs/Pages/issue/bug_report.md>. Acesso em: 08 de outubro de 2023
+## Referências
+feature_request. Disponível em: <https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/git_pages_doc/docs/Pages/issue/feature_request.md>. Acesso em: 08 de outubro de 2023
