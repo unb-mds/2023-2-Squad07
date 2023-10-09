@@ -25,6 +25,7 @@ nav:
         - Requisitos Não-Funcionais: requisitos/requisitosnaofuncionais.md
         - User Story Map: requisitos/userstorymap.md
         - Arquitetura: requisitos/arquitetura.md
+        - Prototipo: requisitos/Prototipo.md
       - Sprints:
         - Sprint 0: 
           - Planejamento: sprints/sprint00/planejamento.md
