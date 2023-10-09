@@ -13,7 +13,4 @@ Este documento tem como finalidade apresentar a arquitetura do projeto LicitaX, 
 Essa documentação engloba as funções visadas pelo projeto, além das tecnologias usadas, seu diagrama de relações e casos de uso. Engloba também algumas outras informações técnicas como características de desempenho e qualidade. O projeto é desenvolvido por alunos da UNB-FGA, na disciplina MDS.
 
 ## 1.3 Diagrama de Sequências UML
-<figure>
-  <img src="../assets/Diagrama de Sequências.png" alt="sequencediagram">
-  <figcaption>Sequence Diagram</figcaption>
-</figure>
+![](../assets/arquiteturadiagrama.png)

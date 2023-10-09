@@ -24,6 +24,7 @@ nav:
         - Requisitos Funcionais: requisitos/requisitosfuncionais.md
         - Requisitos Não-Funcionais: requisitos/requisitosnaofuncionais.md
         - User Story Map: requisitos/userstorymap.md
+        - Backlog: requisitos/backlog.md
         - Arquitetura: requisitos/arquitetura.md
         - Prototipo: requisitos/Prototipo.md
       - Sprints:
