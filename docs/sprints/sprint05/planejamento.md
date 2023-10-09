@@ -35,6 +35,16 @@ Nessa sprint um dos nossos integrantes Kauan acabou trancando a máteria
 | [#35](https://github.com/unb-mds/2023-2-Squad07/issues/35) |  Sprint 5 - Desenvolver arquitetura do projeto | [José André](https://github.com/joseandre25) e [Rafael Bonach](https://github.com/RafaBonach)  |
 | [#36](https://github.com/unb-mds/2023-2-Squad07/issues/36) |  Sprint 5 -  Definição de Nome da Aplicação Web|[José André](https://github.com/joseandre25) e [Rafael Bonach](https://github.com/RafaBonach) e [Giovana Barbosa ](https://github.com/gio221)  |
 | [#37](https://github.com/unb-mds/2023-2-Squad07/issues/37) |  Sprint 5 - Documentação da Ata das Reuniões da Sprint 5 |[Giovana Barbosa ](https://github.com/gio221) |
+| [#39](https://github.com/unb-mds/2023-2-Squad07/issues/39) |  Sprint 5 - Criar Protótipo de Baixa Fidelidade |[Giovana Barbosa ](https://github.com/gio221)|
+| [#46](https://github.com/unb-mds/2023-2-Squad07/issues/46) |  Sprint 5 -  Adicionar a Logo do LicitaX ao Readme e ao Index #| [José André](https://github.com/joseandre25)|
+| [#45](https://github.com/unb-mds/2023-2-Squad07/issues/45) |  Sprint 5 - Criação da contribuição  |[Julia Takaki](https://github.com/juliatakaki) |
+| [#44](https://github.com/unb-mds/2023-2-Squad07/issues/44 ) |  Sprint 5 - Criação da issue template |[Julia Takaki](https://github.com/juliatakaki) |
+| [#43](https://github.com/unb-mds/2023-2-Squad07/issues/43) |  Sprint 5 -  Criação do gerenciamento de riscos |[Julia Takaki](https://github.com/juliatakaki)|
+| [#42](https://github.com/unb-mds/2023-2-Squad07/issues/42) |  Sprint 5 - Criar código de conduta |[Julia Takaki](https://github.com/juliatakaki) |
+| [#41](https://github.com/unb-mds/2023-2-Squad07/issues/41) |  Sprint 5 -  Criar storymap em markdown |[Julia Takaki](https://github.com/juliatakaki) |
+
+
+
 
 
 

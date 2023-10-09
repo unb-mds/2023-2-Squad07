@@ -29,8 +29,7 @@ Durante esta sprint, focamos muito no aprendizado sobreas documentações e da v
 |Estudo do scrum e definiu objetivo e visão do projeto          |                [José André](https://github.com/joseandre25)                                                     |
 | Estudo do scrum  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
 |Estudo do scrum  e documentação do parser   |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
-| Estudo do scrum   | [Kaua Victor](https://github.com/Kauanviictor) |
-
+|
 
 ## Reuniões: Nessa Sprint 3 tivemos três reuniões
 

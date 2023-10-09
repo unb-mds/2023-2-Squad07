@@ -16,7 +16,7 @@ Durante esta sprint, focamos muito no aprendizado sobreas documentações e da v
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
 | [#12](https://github.com/unb-mds/2023-2-Squad07/issues/12) |  Sprint 4 - Documentação do etime  |_Concluído_ |
 | [#16](https://github.com/unb-mds/2023-2-Squad07/issues/16) | Sprint 4 - Levantamento de Requisitos e Definição do Backlog Inicial | _Concluído_ |
-| [#18](https://github.com/unb-mds/2023-2-Squad07/issues/18) | Sprint 4 - Implementação do Scrapy para Coleta de Dados| _Concluído_]|
+| [#18](https://github.com/unb-mds/2023-2-Squad07/issues/18) | Sprint 4 - Implementação do Scrapy para Coleta de Dados| _Concluído_|
 | [#19](https://github.com/unb-mds/2023-2-Squad07/issues/19) | Sprint 4 - studo do Projeto Querido Diário | _Concluído_ |
 | [#32](https://github.com/unb-mds/2023-2-Squad07/issues/32) | Sprint 4 -Documentação da Ata das Reuniões da Sprint 4   | _Concluído_ |
 
@@ -26,7 +26,7 @@ Durante esta sprint, focamos muito no aprendizado sobreas documentações e da v
 Nesta sprint todos os membros participaram de todas as issues
 
 
-## Reuniões: Nessa Sprint 3 tivemos apenas uma reunião
+## Reuniões: Nessa Sprint 4 tivemos três reuniões
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
