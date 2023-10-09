@@ -1,6 +1,6 @@
 # 2023.2 - Squad 07 | LicitaX
 <div align="center">
-    <img src="https://i.pinimg.com/originals/2c/33/37/2c33379a80c22c6b3c73a553d2049fdb.png" style="width:15vw"/>
+    <img src="https://i.pinimg.com/originals/2c/33/37/2c33379a80c22c6b3c73a553d2049fdb.png" style="width:30vw"/>
     <p> Figura 1: Logo do LicitaX</p> 
     <img src="https://i.pinimg.com/originals/7d/ea/e1/7deae17701b9331152bacb59009b0ded.png" style="width:15vw"/>
     <p> Figura 2: Bandeira do Estado do Ceará</p> 
