@@ -46,6 +46,6 @@ Os mantenedores do projeto que não aderirem ou aplicarem o Código de Conduta d
 
 ## Referência
 
-ORGANIZATION FOR ETHICAL SOURCE. Contributor Covenant, 2014. Latest Version. Disponível em: https://www.contributor-covenant.org/version/2/1/code_of_conduct/. Acesso em: 10 de outubro de 2023.
+ORGANIZATION FOR ETHICAL SOURCE. Contributor Covenant, 2014. Latest Version. Disponível em: https://www.contributor-covenant.org/version/2/1/code_of_conduct/. Acesso em: 08 de outubro de 2023.
 
 CODE_OF_CONDUCT. Disponível em: <https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/git_pages_doc/docs/Pages/conduta/CODE_OF_CONDUCT.md. Acesso em: 08 de outubro de 2023.
