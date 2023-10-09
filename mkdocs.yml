@@ -26,7 +26,7 @@ nav:
         - User Story Map: requisitos/userstorymap.md
         - Backlog: requisitos/backlog.md
         - Arquitetura: requisitos/arquitetura.md
-        - Prototipo: requisitos/Prototipo.md
+        - Prototipo: requisitos/Prototipo/Prototipo.md
       - Sprints:
         - Sprint 0: 
           - Planejamento: sprints/sprint00/planejamento.md
@@ -46,4 +46,6 @@ nav:
         - Sprint 5:
           - Planejamento: sprints/sprint05/planejamento.md
           - Resultado: sprints/sprint05/resultado.md
+        - Sprint 6:
+          - Planejamento: sprints/sprint06/planejamento.md
 theme: material
