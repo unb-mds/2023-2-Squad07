@@ -1,5 +1,5 @@
 ---
-tag: "personas"
+tag: "requisitos"
 ---
 
 ## Histórico de Versões
@@ -27,7 +27,7 @@ Segundo o livro "Interação Humano-Computador" de Simone Barbosa e Bruno Dias, 
 - Profissão: Professora e Ativista Ambiental
 
 
-Contexto:
+
 Ana Santos é uma moradora dedicada da cidade de Juazeiro do Norte, um município do interior conhecido por sua rica história cultural e forte conexão com a natureza. Ela é professora de biologia em uma escola local e também é uma ativista comprometida com questões ambientais. Ana acredita firmemente na importância da transparência governamental e na necessidade de proteger o meio ambiente local. No entanto, ela enfrenta desafios ao tentar acessar informações cruciais no Diário Oficial de Juazeiro do Norte.
 
 Desafios:
@@ -37,6 +37,7 @@ Desafios:
 Conhecimento Tecnológico Limitado: Embora Ana tenha um smartphone, ela não é particularmente experiente em tecnologia e prefere soluções simples e acessíveis.
 
 Como a Aplicação a Ajuda:
+
 Ana descobriu a aplicação que facilita o acesso ao Diário Oficial de Juazeiro do Norte e encontrou soluções para seus desafios:
 - Facilidade de Uso: A interface simples e intuitiva da aplicação permite que Ana navegue facilmente e encontre informações relacionadas ao meio ambiente apenas procurando uma palavra chave, mesmo com seu conhecimento tecnológico limitado.
 - Engajamento Ambiental Fortalecido: Ana está mais bem informada e engajada em questões ambientais, permitindo que ela continue liderando iniciativas para proteger o meio ambiente de sua cidade.
@@ -46,11 +47,11 @@ Ana descobriu a aplicação que facilita o acesso ao Diário Oficial de Juazeiro
 ![](../assets/carlosmendes.jpg)
 
 
--Idade: 45 anos
--Profissão: Empresário e Pai de Família
+- Idade: 45 anos
+- Profissão: Empresário e Pai de Família
 
 
-Contexto:
+
 Carlos Mendes é um morador de Juazeiro do Norte, um município do interior onde ele gerencia seu próprio negócio, uma loja de materiais de construção. Ele também é um pai de família com três filhos. Carlos está muito envolvido na vida comunitária, frequentemente participando de reuniões de negócios locais e eventos da escola de seus filhos. Ele sente a necessidade de estar bem informado sobre regulamentações municipais que podem afetar seu negócio e a educação de seus filhos.
 
 Desafios:
@@ -60,6 +61,7 @@ Necessidade de Informações de Negócios: Como empresário, ele precisa acessar
 - Conhecimento Tecnológico Limitado: Embora Carlos tenha um smartphone, ele prefere soluções simples e diretas devido à sua familiaridade limitada com tecnologia.
 
 Como a Aplicação a Ajuda:
+
 Carlos descobriu a aplicação que facilita o acesso ao Diário Oficial de Juazeiro do Norte e encontrou soluções para seus desafios:
 - Facilidade de Uso: A interface simples e intuitiva da aplicação permite que Carlos navegue facilmente e encontre informações comerciais e educacionais, mesmo com seu conhecimento limitado de tecnologia.
 - Notificações Personalizadas: Carlos configura notificações para receber atualizações sobre regulamentações comerciais e decisões educacionais, mantendo-o informado sem a necessidade de pesquisa ativa.
@@ -71,11 +73,10 @@ Carlos descobriu a aplicação que facilita o acesso ao Diário Oficial de Juaze
 ![](../assets/mariaoliveira.jpg)
 
 
--Idade: 28 anos
--Profissão: Estudante Universitária e Voluntária
+- Idade: 28 anos
+- Profissão: Estudante Universitária e Voluntária
 
 
-Contexto:
 Maria Oliveira é uma jovem estudante universitária que cresceu em Juazeiro do Norte e agora está cursando serviço social na universidade local. Ela é uma voluntária ativa em organizações sem fins lucrativos que se concentram em questões sociais e comunitárias. Maria está empenhada em entender as políticas locais e as decisões governamentais que afetam as comunidades carentes em sua cidade natal.
 
 Desafios:
@@ -84,6 +85,7 @@ Desafios:
 - Conhecimento Tecnológico Moderado: Maria tem algum conhecimento tecnológico, mas prefere soluções simples e acessíveis devido às suas limitações financeiras.
 
 Como a Aplicação a Ajuda:
+
 Maria descobriu a aplicação que facilita o acesso ao Diário Oficial de Juazeiro do Norte e encontrou soluções para seus desafios:
 - Gratuidade: A aplicação é gratuita para usar, o que se encaixa no orçamento limitado de Maria.
 - Facilidade de Uso: A interface simples da aplicação permite que Maria navegue e encontre informações de políticas sociais, mesmo com seu conhecimento tecnológico moderado.
