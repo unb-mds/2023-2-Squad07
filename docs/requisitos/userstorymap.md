@@ -55,6 +55,7 @@ Um User Story Map é uma ferramenta visual que ajuda a equipe a entender e plane
 #
 ### Épico: Pesquisa
 
+[Link para o épico](backlog.md### EP02: Pesquisa)
 #### Feature: Pesquisa por Município
 
 ###### História de Usuário (HU): Pesquisar por municipio em especifico
@@ -73,6 +74,7 @@ Um User Story Map é uma ferramenta visual que ajuda a equipe a entender e plane
 
 #
 ### Épico: Retorno 
+[Link para o épico](backlog.md### EP03: Retorno)
 
 #### Feature: Exibir Resultados de Pesquisa
 
@@ -88,6 +90,7 @@ Como usuário, quero poder visualizar a quantidade de editais de licitação abe
 #
 ### Épico: Mais abrem e menos abrem
 
+[Link para o épico](backlog.md### EP04: Municípios que mais abrem editais e os que menos abrem)
 #### Feature: Destacar o que mais abre e o que menos abre
 
 ###### História de Usuário (HU):Poder ver qual municipio mais abre ediatis de licitação
