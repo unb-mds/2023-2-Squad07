@@ -42,6 +42,7 @@ Nessa sprint um dos nossos integrantes Kauan acabou trancando a máteria
 | [#43](https://github.com/unb-mds/2023-2-Squad07/issues/43) |  Sprint 5 -  Criação do gerenciamento de riscos |[Julia Takaki](https://github.com/juliatakaki)|
 | [#42](https://github.com/unb-mds/2023-2-Squad07/issues/42) |  Sprint 5 - Criar código de conduta |[Julia Takaki](https://github.com/juliatakaki) |
 | [#41](https://github.com/unb-mds/2023-2-Squad07/issues/41) |  Sprint 5 -  Criar storymap em markdown |[Julia Takaki](https://github.com/juliatakaki) |
+| [#50](https://github.com/unb-mds/2023-2-Squad07/issues/50) |  Sprint 5 -  Criação do StoryBoard do projeto #|[Samara Leticia](https://github.com/samarawwleticia) |
 
 
 

@@ -1,6 +1,6 @@
 ### Oque fizemos
 
-Nesta sprint apresentamos a professora a arquitetura, o strory map, a documentação e o prototipo
+Nesta sprint afocamos em fazer nosso front-end com o site e fazer o scrapy e conseguuir integralizar ele
 
 #
 ## Histórico de Versões
@@ -23,3 +23,4 @@ Nesta sprint apresentamos a professora a arquitetura, o strory map, a documenta�
 | [#47](https://github.com/unb-mds/2023-2-Squad07/issues/47) |  Sprint 6 - Criação do Backlog do Projeto  | [Giovana Barbosa ](https://github.com/gio221) e  [José André](https://github.com/joseandre25)  |
 | [#48](https://github.com/unb-mds/2023-2-Squad07/issues/48) |  Sprint 6 - Edição do Story Map do Projetoo |[Giovana Barbosa ](https://github.com/gio221) e  [José André](https://github.com/joseandre25) |
  [#49](https://github.com/unb-mds/2023-2-Squad07/issues/49) |  Sprint 6 -Criação do Protótipo de Alta Fidelidade |[Giovana Barbosa ](https://github.com/gio221) |
+

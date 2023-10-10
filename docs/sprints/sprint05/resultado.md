@@ -28,12 +28,16 @@ Durante esta sprint,criamos um nome e logo para o projeto, definimos o StoryMap 
 | [#36](https://github.com/unb-mds/2023-2-Squad07/issues/36) |  Sprint 5 -  Definição de Nome da Aplicação Web|_Concluído_|
 | [#37](https://github.com/unb-mds/2023-2-Squad07/issues/37) |  Sprint 5 - Documentação da Ata das Reuniões da Sprint 5 |_Concluído_ |
 | [#39](https://github.com/unb-mds/2023-2-Squad07/issues/39) |  Sprint 5 - Criar Protótipo de Baixa Fidelidade |_Concluído_ |
-| [#46](https://github.com/unb-mds/2023-2-Squad07/issues/46) |  Sprint 5 -  Adicionar a Logo do LicitaX ao Readme e ao Index #|_Concluído_ |
-| [#45](https://github.com/unb-mds/2023-2-Squad07/issues/45) |  Sprint 5 - Criação da contribuição  |_Concluído_ |
-| [#44](https://github.com/unb-mds/2023-2-Squad07/issues/44 ) |  Sprint 5 - Criação da issue template |_Concluído_ |
-| [#43](https://github.com/unb-mds/2023-2-Squad07/issues/43) |  Sprint 5 -  Criação do gerenciamento de riscos |_Concluído_ |
-| [#42](https://github.com/unb-mds/2023-2-Squad07/issues/42) |  Sprint 5 - Criar código de conduta |_Concluído_ |
 | [#41](https://github.com/unb-mds/2023-2-Squad07/issues/41) |  Sprint 5 -  Criar storymap em markdown |_Concluído_ |
+| [#42](https://github.com/unb-mds/2023-2-Squad07/issues/42) |  Sprint 5 - Criar código de conduta |_Concluído_ |
+| [#43](https://github.com/unb-mds/2023-2-Squad07/issues/43) |  Sprint 5 -  Criação do gerenciamento de riscos |_Concluído_ |
+| [#44](https://github.com/unb-mds/2023-2-Squad07/issues/44 ) |  Sprint 5 - Criação da issue template |_Concluído_ |
+| [#45](https://github.com/unb-mds/2023-2-Squad07/issues/45) |  Sprint 5 - Criação da contribuição  |_Concluído_ |
+| [#46](https://github.com/unb-mds/2023-2-Squad07/issues/46) |  Sprint 5 -  Adicionar a Logo do LicitaX ao Readme e ao Index #|_Concluído_ |
+| [#50](https://github.com/unb-mds/2023-2-Squad07/issues/50) |  Sprint 5 -  Criação do StoryBoard do projeto #|_Concluído_ |
+
+
+
 
 
 
@@ -44,7 +48,7 @@ Durante esta sprint,criamos um nome e logo para o projeto, definimos o StoryMap 
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Prototipo de Baixa Fidelidade, definição nome e logo, e documentação da ata |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
 | Documentou issue template, contribuição,gerenciamento de risco, codigo de conduta, commits, branches , story map  e organizou pastas |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
-|Criou gitpag,definiu nome e logo, definiu visão de produto , personas e perfil de usuário e arquitetura   |                [José André](https://github.com/joseandre25)                                                     |
+|Criou gitpag,definiu nome e logo, definiu visão de produto , personas e perfil de usuário e arquitetura e prototipo de alta fidelidade  |                [José André](https://github.com/joseandre25)                                                     |
 | Desenvolveu arquitetura, definiu logo e nome e organizou repositorio  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
 |Definiu personas   |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
 
