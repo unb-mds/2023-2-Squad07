@@ -99,5 +99,6 @@ Essas personas representam diferentes segmentos de usuários que podem se benefi
 ### Referências
 
 [1]: Preece, J., Rogers, Y., & Sharp, H. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2002.
+
 [2]: 2023.1-GuiaUnB/doc/2023-05-23-documento-de-personas.md at main · fga-eps-mds/2023.1-GuiaUnB. GitHub. Disponível em: <https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/doc/2023-05-23-documento-de-personas.md>.
 
