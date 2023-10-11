@@ -4,7 +4,6 @@ tag: "requisitos"
 
 ## Histórico de Versões
 
-
 | Data       | Versão | Descrição                      | Autor             |
 | :--------: | :----: | :----------:                   | :---------------: |
 | 09/10/2023 |  0.1   | Criação das Personas | [Samara Letícia](https://github.com/samarawwleticia)|
@@ -21,7 +20,7 @@ Segundo o livro "Interação Humano-Computador" de Simone Barbosa e Bruno Dias, 
 
 ### Ana Santos
 
-![](../assets/anasantos.jpg)
+![Imagem de Ana Santos](../assets/anasantos.jpg)
 
 **Perfil de Ana Santos**
 - Idade: 32 anos
@@ -38,13 +37,12 @@ Ana Santos é uma moradora dedicada da cidade de Juazeiro do Norte, um municípi
 
 **Como a Aplicação a Ajuda**
 Ana descobriu a aplicação que facilita o acesso ao Diário Oficial de Juazeiro do Norte e encontrou soluções para seus desafios:
-
 1. Facilidade de Uso: A interface simples e intuitiva da aplicação permite que Ana navegue facilmente e encontre informações relacionadas ao meio ambiente apenas procurando uma palavra chave, mesmo com seu conhecimento tecnológico limitado.
 2. Engajamento Ambiental Fortalecido: Ana está mais bem informada e engajada em questões ambientais, permitindo que ela continue liderando iniciativas para proteger o meio ambiente de sua cidade.
 
 ### Carlos Mendes
 
-![](../assets/carlosmendes.jpg)
+![Imagem de Carlos Mendes](../assets/carlosmendes.jpg)
 
 
 **Perfil de Carlos Mendes**
@@ -67,10 +65,9 @@ Carlos descobriu a aplicação que facilita o acesso ao Diário Oficial de Juaze
 3. Acesso Rápido: Ele pode acessar rapidamente o Diário Oficial com alguns toques no seu smartphone, economizando tempo valioso.
 4. Participação Comunitária Reforçada: Carlos está mais bem informado sobre questões que afetam seu negócio e a educação de seus filhos, permitindo-lhe participar mais eficazmente em reuniões comunitárias e eventos escolares.
 
-
 #### Maria Oliveira
 
-![](../assets/mariaoliveira.jpg)
+![Imagem de Maria Oliveira](../assets/mariaoliveira.jpg)
 
 **Perfil de Maria Oliveira**
 - Idade: 28 anos
@@ -91,7 +88,6 @@ Maria descobriu a aplicação que facilita o acesso ao Diário Oficial de Juazei
 3. Acesso Rápido: Ela pode acessar rapidamente o Diário Oficial com alguns toques no seu smartphone, economizando tempo e recursos.
 4. Capacitação Comunitária: Maria usa as informações obtidas para empoderar as comunidades em que trabalha como voluntária, ajudando-as a entender e a se envolver nas políticas governamentais que afetam suas vidas.
 
-
 ### Conclusão
 
 Essas personas representam diferentes segmentos de usuários que podem se beneficiar do acesso simplificado ao Diário Oficial de Juazeiro do Norte por meio da aplicação. Cada uma tem necessidades e desafios específicos que a aplicação deve atender para ser eficaz e útil.
@@ -101,4 +97,3 @@ Essas personas representam diferentes segmentos de usuários que podem se benefi
 [1]: Preece, J., Rogers, Y., & Sharp, H. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2002.
 
 [2]: 2023.1-GuiaUnB/doc/2023-05-23-documento-de-personas.md at main · fga-eps-mds/2023.1-GuiaUnB. GitHub. Disponível em: <https://github.com/fga-eps-mds/2023.1-GuiaUnB/blob/main/doc/2023-05-23-documento-de-personas.md>.
-

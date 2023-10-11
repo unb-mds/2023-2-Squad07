@@ -5,14 +5,17 @@ Os requisitos foram divididos em funcionais e não funcionais para delinear as f
 
 ## Histórico de Versões
 
-
-| Data       | Versão | Descrição                      | Autor             |
-| :--------: | :----: | :----------:                   | :---------------: |
-| 01/10/2023 |  0.1   | Criação dos requisitos funcionais | [José André](https://github.com/joseandre25)|
+| Data       | Versão | Descrição                      | Autor |
+| :--------: | :----: | :----------------------------: | :-------: |
+| 01/10/2023 |  0.1   |     Criação dos requisitos funcionais      | [José André](https://github.com/joseandre25) |
+| 10/10/2023 |  0.2   |    Atualização dos requisitos funcionais   | [José André](https://github.com/joseandre25) |
 
 ## Requisitos Funcionais
 
 Requisitos Funcionais da aplicação LicitaX.
+
+### Sobre o projeto:
+Os usuários devem poder ver informações do projeto, como usar a aplicação e ter acesso ao código fonte.
 
 ### Escolha do município:
 Os usuários devem poder escolher o município do Estado do Ceará desejado.
