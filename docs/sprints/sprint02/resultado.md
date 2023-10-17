@@ -29,7 +29,7 @@ Nesta sprint focamos em estudar os projetos anteriores, e começar a documentar 
 |Estudo do Parser e Coalize e estudo de projetos anteriores           |                                                    [José André](https://github.com/joseandre25)                                                     |
 | Estudo do Parser e Coalize, documentação do Scrum    |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
 | Estudo do Parser e Coalize     |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
-| Estudo do Parser e Coalize | [Kaua Victor](https://github.com/Kauanviictor) |
+
 
 ## Reuniões: Nessa Sprint 2 tivemos três reuniões
 

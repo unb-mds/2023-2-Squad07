@@ -33,7 +33,7 @@ Durante esta sprint, focamos muito no prototipo, na divisão da equipe em back e
 |aprendendo HTML, css e react   |                                                    [Samara Leticia](https://github.com/samarawwleticia)       
 
 
-## Reuniões: Nessa Sprint 6 tivemos três reuniões
+## Reuniões: Nessa Sprint 6 tivemos quatro reuniões
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
