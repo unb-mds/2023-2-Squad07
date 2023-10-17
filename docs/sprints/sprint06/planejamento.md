@@ -25,3 +25,4 @@ Nesta sprint focamos em fazer nosso front-end com o site e fazer o scrapy e cons
  [#49](https://github.com/unb-mds/2023-2-Squad07/issues/49) |  Sprint 6 -Criação do Protótipo de Alta Fidelidade |[Giovana Barbosa ](https://github.com/gio221) e  [José André](https://github.com/joseandre25) |
  [#51](https://github.com/unb-mds/2023-2-Squad07/issues/51) |  Sprint 6 -Aprendendo React, HTML e CSS|[Giovana Barbosa ](https://github.com/gio221)  e [Julia Takaki](https://github.com/juliatakaki) e  [Samara Leticia](https://github.com/samarawwleticia)    |
 [#52](https://github.com/unb-mds/2023-2-Squad07/issues/52) |  Sprint 6 -Estudar Integração de Spider Scrapy com SQLite |[José André](https://github.com/joseandre25) e [Rafael Bonach](https://github.com/RafaBonach) |
+[#53](https://github.com/unb-mds/2023-2-Squad07/issues/53) |  Sprint 6 -Documentação da Ata das Reuniões da Sprint 6|[Giovana Barbosa ](https://github.com/gio221) |

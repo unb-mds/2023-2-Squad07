@@ -19,6 +19,7 @@ Durante esta sprint, focamos muito no prototipo, na divisão da equipe em back e
  [#49](https://github.com/unb-mds/2023-2-Squad07/issues/49) |  Sprint 6 -Criação do Protótipo de Alta Fidelidade |_concluido_|
  [#51](https://github.com/unb-mds/2023-2-Squad07/issues/51) |  Sprint 6 -Aprendendo React, HTML e CSS|_concluido_   |
 [#52](https://github.com/unb-mds/2023-2-Squad07/issues/52) |  Sprint 6 -Estudar Integração de Spider Scrapy com SQLite |_concluido_ |
+[#53](https://github.com/unb-mds/2023-2-Squad07/issues/53) |  Sprint 6 -Documentação da Ata das Reuniões da Sprint 6|_concluido_ |
 
 
 
