@@ -1,6 +1,6 @@
 ### Oque fizemos
 
-Nesta sprint afocamos em fazer nosso front-end com o site e fazer o scrapy e conseguuir integralizar ele
+Nesta sprint focamos em fazer nosso front-end com o site e fazer o scrapy e conseguuir integralizar ele
 
 #
 ## Histórico de Versões

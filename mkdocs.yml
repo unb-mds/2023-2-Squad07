@@ -52,5 +52,8 @@ nav:
           - Resultado: sprints/sprint05/resultado.md
         - Sprint 6:
           - Planejamento: sprints/sprint06/planejamento.md
+          - Resultado: sprints/sprint06/resultado.md
+        - Sprint 7:
+          - Planejamento: sprints/sprint07/planejamento.md
           - Resultado: sprints/sprint07/resultado.md
 theme: material
