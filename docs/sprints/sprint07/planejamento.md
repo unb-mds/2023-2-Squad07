@@ -1,6 +1,6 @@
 ### Oque fizemos
 
-Nesta sprint
+Nesta sprint criamos nosso repositório do front-end e nos preparamos para a primeira release
 
 #
 ## Histórico de Versões
@@ -18,3 +18,9 @@ Nesta sprint
 **Duração**: 7 dias
 
 ## Objetivos
+|                            Issue                             |              Título               |                    Responsáveis                     |
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
+| [#54](https://github.com/unb-mds/2023-2-Squad07/issues/54) |  Sprint 7 -Configuração de Gitpage e Workflow de Build/Deploy Contínuo  |[José André](https://github.com/joseandre25)  |
+| [#55](https://github.com/unb-mds/2023-2-Squad07/issues/55) |  Sprint 7 - Documentação da Ata das Reuniões da Sprint 7  |[Giovana Barbosa ](https://github.com/gio221) |
+| [#56](https://github.com/unb-mds/2023-2-Squad07/issues/56) |  Sprint 7 - Estudo do Next.js  |[Giovana Barbosa ](https://github.com/gio221) |
+| [#57](https://github.com/unb-mds/2023-2-Squad07/issues/57) |  Sprint 7 - Configuração do Ambiente de Desenvolvimento Front-End   |[Giovana Barbosa ](https://github.com/gio221) |
