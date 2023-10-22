@@ -3,7 +3,8 @@
   |Data|Versão|Alteração|Autor|  
   |----|------|---------|-----|  
   |08/10/2023|0.1|Abertura do documento de Arquitetura|[Rafael Bonach](https://github.com/RafaBonach)|
-  |10/10/2023|0.2|Atualização do Docs de Arquitetura|[José André](https://github.com/joseandre25), [Rafael Bonach](https://github.com/RafaBonach) e [Samara Letícia](https://github.com/samarawwleticia)
+  |10/10/2023|0.2|Atualização do Docs de Arquitetura|[José André](https://github.com/joseandre25), [Rafael Bonach](https://github.com/RafaBonach) e [Samara Letícia](https://github.com/samarawwleticia)|
+  |22/10/2023|0.1|Abertura do documento de Arquitetura|[Rafael Bonach](https://github.com/RafaBonach),[José André](https://github.com/joseandre25) e [Giovana Barbosa ](https://github.com/gio221)|
   
   
 ## 1. Introdução
@@ -15,13 +16,13 @@ Essa documentação engloba as funções visadas pelo projeto, além das tecnolo
 
 ## 1.3 Diagrama de Sequências UML
 ### Diagrama geral da Arquitetura
-![diagramageral](../assets/diagramageral.png)
+![diagramageral](../assets/Diagrama-Geral.png)
 
 ### Diagrama de Raspagem de dados
-![diagramaraspagem](../assets/diagramaraspagem.png)
+![diagramaraspagem](../assets/Diagrama-de-Camada.png)
 
 ### Diagrama do Banco de Dados
-![diagramabd](../assets/diagramabd.png)
+![diagramabd](../assets/Diagrama-de-BancodeDados.png)
 
 ### Diagrama da Pagina Web
-![diagramaweb](../assets/diagramaweb.png)
+![diagramaweb](../assets/Diagrama-de-Vizualiza%C3%A7%C3%A3o.png)
