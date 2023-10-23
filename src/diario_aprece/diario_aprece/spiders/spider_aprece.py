@@ -5,7 +5,7 @@ from diario_aprece.items import DiarioItem
 class SpiderApreceSpider(scrapy.Spider):
     name = "spider_aprece"
     allowed_domains = ["www.diariomunicipal.com.br"]
-    start_urls = ["file:///home/joseandre/Documentos/APRECE/APRECE_20_09_23.pdf"]
+    start_urls = ["https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=764&i=publicado_93036_2023-10-20_92e9a4ce6eb89872bde814865901fd0b.pdf"]
 
     def parse(self, response):
         # Aqui fazemos o download do PDF
@@ -26,6 +26,9 @@ class SpiderApreceSpider(scrapy.Spider):
         # Exemplo de como armazenar em um item
         item = DiarioItem(pdf_filename=pdf_filename, num_avisos_licitacao=num_avisos_licitacao)
         yield item
+
+        # Após a raspagem e armazenamento dos dados, removemos o arquivo PDF
+        os.remove(pdf_filename)
 
     def extract_text_from_pdf(self, pdf_filename):
         # Aqui você chama o Apache Tika para extrair o texto do PDF e o retorna.

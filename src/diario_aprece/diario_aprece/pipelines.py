@@ -1,19 +1,33 @@
+import os
 import json
 
 class DiarioPipeline:
-    def __init__(self):
-        self.items = []
+    def open_spider(self, spider):
+        self.results = []  # Inicialize uma lista vazia para os resultados
 
     def process_item(self, item, spider):
-        self.items.append(dict(item))
+        self.results.append(dict(item))  # Adicione os resultados à lista
         return item
 
     def close_spider(self, spider):
-        # Aqui você pode personalizar a saída, como salvar em um arquivo JSON.
-        with open('resultados.json', 'w', encoding='utf-8') as json_file:
-            json.dump(self.items, json_file, ensure_ascii=False, indent=4)
+        # Determine o nome do arquivo
+        output_file = os.path.join('../../public', 'resultados.json')
 
-        # Alternativamente, você pode realizar outras ações, como inserir os dados em um banco de dados.
+        # Se o arquivo já existe, leia os resultados anteriores
+        try:
+            with open(output_file, 'r', encoding='utf-8') as json_file:
+                existing_results = json.load(json_file)
+        except FileNotFoundError:
+            existing_results = []
 
-        # Lembre-se de ajustar o nome do arquivo e o formato de saída conforme necessário.
+        # Adicione os novos resultados aos resultados existentes
+        existing_results.extend(self.results)
 
+        # Garanta que a pasta "public" exista
+        os.makedirs('../../public', exist_ok=True)
+
+        # Salve a lista completa de resultados no arquivo
+        with open(output_file, 'w', encoding='utf-8') as json_file:
+            json.dump(existing_results, json_file, indent=2, default=str, ensure_ascii=False)
+
+        return None
