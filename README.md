@@ -15,13 +15,15 @@
 </div>
 
 ## Sobre o projeto
-Este repositório contém o trabalho do Squad 07 da disciplina de Métodos de Desenvolvimento de Software. O objetivo é desenvolvermos um software com base no projeto open source Querido Diário tendo como projeto referência o Exoonero.
-
-Iremos criar raspadores de alguns municípios do Estado do Ceará de acordo com o padrão do Querido Diário.
+Este repositório contém o backend do Squad 07 da disciplina de Métodos de Desenvolvimento de Software. O objetivo é desenvolvermos um software com base no projeto open source Querido Diário tendo como projeto referência o Exoonero.
 
 Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história</a> do Querido Diário no <a href="https://queridodiario.ok.org.br/">site do Querido Diário</a>.
 
 Saiba mais sobre o <a href="https://exoonero.org/sobre/">Exoonero</a>. 
+
+Acesse nosso <a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
+
+<a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>.
 
 ## Equipe
 
