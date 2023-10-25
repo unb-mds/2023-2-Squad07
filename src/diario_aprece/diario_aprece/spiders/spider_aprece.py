@@ -5,7 +5,7 @@ from diario_aprece.items import DiarioItem
 class SpiderApreceSpider(scrapy.Spider):
     name = "spider_aprece"
     allowed_domains = ["www.diariomunicipal.com.br"]
-    start_urls = ["https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=764&i=publicado_93033_2023-10-17_b790e353b08b74cf8ec512b71603e995.pdf"]
+    start_urls = [input("Insira o link: ")]
 
     def parse(self, response):
         # Aqui fazemos o download do PDF
