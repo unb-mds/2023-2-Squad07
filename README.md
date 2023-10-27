@@ -25,6 +25,63 @@ Acesse nosso <a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
 
 <a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>.
 
+## Instruções de uso
+
+### Pré-requisitos:
+
+- Ubuntu 22.04.3
+- Python 3.10 ou superior.
+- Node.js 18.18.0 ou superior.
+- Git 2.34.1 ou superior.
+- Scrapy 2.11 ou superior.
+- JDK 11.0.2 ou superior
+
+Para começar a usar o software completo, você precisa clonar dois repositórios, primeiro clone o repositório do backend para a pasta desejada através do seguinte comando:
+
+```bash
+git clone https://github.com/unb-mds/2023-2-Squad07.git
+```
+
+Depois, navegue até a pasta src:
+
+```bash
+cd src
+```
+
+Após, navegue até diario_aprece:
+
+```bash
+cd diario_aprece
+```
+
+Abra o terminal e use o comando:
+
+```bash
+scrapy crawl spider_aprece
+```
+
+Após, insira o link do PDF do diário oficial (apenas do domínio www.diariomunicipal.com.br) e dê enter.
+
+O Scrapy irá baixar o diário, o Apache Tika irá extrair o texto e processar a quantidade de vezes que a frase "aviso de licitação" ocorreu no diário oficial e irá gerar um JSON na pasta Public, na raiz do projeto.
+
+Agora, clone o repositório do frontend para a pasta desejada através do seguinte comando:
+
+```bash
+git clone https://github.com/unb-mds/2023.2-LicitaX.git
+```
+
+Instale as dependências utilizadas através do comando:
+
+```bash
+yarn install
+```
+
+Inicie o servidor através do comando:
+
+```bash
+yarn dev
+```
+
 ## Equipe
 
 <table>
