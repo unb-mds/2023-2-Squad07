@@ -1,0 +1,41 @@
+## Oque fizemos
+
+Durante esta sprint, focamos na ambientação do grupo em cada parte do projeto
+
+#
+
+## Histórico de Versões
+
+| Data       | Versão | Descrição                                 | Autor             |
+| :--------: | :----: | :--------------------:                    | :---------------: |
+| 31/10/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
+
+## Objetivos
+|                            Issue                             |              Título               |                    Status                     |
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
+| [#64](https://github.com/unb-mds/2023-2-Squad07/issues/64) |  Sprint 8 -Entender melhor o projeto e o passo a passo  |_concluido_  |
+| [#65](https://github.com/unb-mds/2023-2-Squad07/issues/65) |  Sprint 8 -Estudo do TypeScript  |_concluido_  |
+| [#66](https://github.com/unb-mds/2023-2-Squad07/issues/66) |  Sprint 8 -Estudo do Uso do Scrapy para Pesquisar em todos os Diários Oficiais automaticamente  |_concluido_   |
+
+## Atividade de cada membro
+ Atividade        |                                                                           Nome                                                                            |
+| ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|entender melhor o projeto, estudo do typeScript e Scrapy|                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
+|  entender melhor o projeto, estudo do typeScript e Scrapy|                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+|entender melhor o projeto, estudo do typeScript e Scrapy|                [José André](https://github.com/joseandre25)                                                     |
+|entender melhor o projeto, estudo do typeScript e Scrapy  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
+| entender melhor o projeto, estudo do typeScript e Scrapy |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
+
+
+## Reuniões: Nessa Sprint 7 tivemos quatro reuniões
+
+| Data       | Tema                             
+| :---------:| :---------------------------------------------:      
+| 24/10/2023 |  Planejamento da Sprint 8
+| 26/10/2023 |  daily  
+| 28/10/2023 |  daily  
+| 31/10/2023 |  daily  para review da sprint 8
+
+## Avaliação do Scrum Master
+
+Nessa Sprint 8 
