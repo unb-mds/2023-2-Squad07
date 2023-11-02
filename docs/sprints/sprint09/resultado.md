@@ -28,7 +28,7 @@ Durante esta sprint,
 |Estudo do Scrapy e Diario Oficial   |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
 
 
-## Reuniões: Nessa Sprint 7 tivemos quatro reuniões
+## Reuniões: Nessa Sprint 9 tivemos quatro reuniões
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      

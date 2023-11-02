@@ -27,7 +27,7 @@ Durante esta sprint, focamos na ambientação do grupo em cada parte do projeto
 | entender melhor o projeto, estudo do typeScript  |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
 
 
-## Reuniões: Nessa Sprint 7 tivemos quatro reuniões
+## Reuniões: Nessa Sprint 8 tivemos quatro reuniões
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
