@@ -22,4 +22,4 @@ Nesta sprint começamos a nos preparar para a release 2 e sobre o que falta para
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
 | [#64](https://github.com/unb-mds/2023-2-Squad07/issues/64) |  Sprint 8 -Entender melhor o projeto e o passo a passo  |[todos]|
 | [#65](https://github.com/unb-mds/2023-2-Squad07/issues/65) |  Sprint 8 -Estudo do TypeScript  |[todos]|
-| [#66](https://github.com/unb-mds/2023-2-Squad07/issues/66) |  Sprint 8 -Estudo do Uso do Scrapy para Pesquisar em todos os Diários Oficiais automaticamente  |[todos]  |
+| [#69](https://github.com/unb-mds/2023-2-Squad07/issues/69) |  Sprint 8 -Documentação da Ata das Reuniões da Sprint 8   |[Giovana Barbosa ](https://github.com/gio221) |
