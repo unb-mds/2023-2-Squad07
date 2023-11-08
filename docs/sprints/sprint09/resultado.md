@@ -1,6 +1,6 @@
 ## Oque fizemos
 
-Durante esta sprint,
+Durante esta sprint, focamos nos estudo do scrapy
 
 #
 
@@ -39,4 +39,4 @@ Durante esta sprint,
 
 ## Avaliação do Scrum Master
 
-Nessa Sprint 9 
+Nessa Sprint 9 todo o grupo focou no estudo do scrap, e buscamos um detalhamento melhor para nossa busca no Diário Oficial
