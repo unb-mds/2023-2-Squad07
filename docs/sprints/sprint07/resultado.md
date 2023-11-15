@@ -41,7 +41,7 @@ Durante esta sprint, focamos na entrega da release 1
 | 17/10/2023 |  Planejamento da Sprint 7
 | 19/10/2023 |  daily  para verificamos o front end
 | 21/10/2023 |  daily  para verificamos o front end
-| 24/10/2023 |  daily  para review da sprint 7
+| 24/10/2023 |  review da sprint 7
 
 ## Avaliação do Scrum Master
 

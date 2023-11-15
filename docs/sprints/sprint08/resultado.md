@@ -32,9 +32,9 @@ Durante esta sprint, focamos na ambientação do grupo em cada parte do projeto
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
 | 24/10/2023 |  Planejamento da Sprint 8
-| 26/10/2023 |  daily  
-| 28/10/2023 |  daily  
-| 31/10/2023 |  daily  para review da sprint 8
+| 26/10/2023 |  daily para estudo do typeScript
+| 28/10/2023 |  daily  para entender o projeto
+| 31/10/2023 |  review da sprint 8
 
 ## Avaliação do Scrum Master
 

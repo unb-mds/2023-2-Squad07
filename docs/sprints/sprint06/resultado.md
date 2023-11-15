@@ -41,7 +41,7 @@ Durante esta sprint, focamos muito no prototipo, na divisão da equipe em back e
 | 10/10/2023 |  Planejamento da Sprint 6 
 | 12/10/2023 |  daily  para verificamos o backlog
 | 14/10/2023 |  daily  para vermos o prototipo
-| 17/10/2023 |  daily  para review da sprint 6
+| 17/10/2023 |  review da sprint 6
 
 ## Avaliação do Scrum Master
 

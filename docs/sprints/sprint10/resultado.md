@@ -23,7 +23,7 @@ Durante esta sprint, focamos no estudo do Docker
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Documentação da Ata, estudo do docker|                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
 |  |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
-|estudo do docker,elhoria na Estrutura de Diretórios para Desenvolvimento e Automação|                [José André](https://github.com/joseandre25)                                                     |
+|estudo do docker,melhoria na Estrutura de Diretórios para Desenvolvimento e Automação|                [José André](https://github.com/joseandre25)                                                     |
 | estudo do docker |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
 |   |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
 
@@ -33,9 +33,9 @@ Durante esta sprint, focamos no estudo do Docker
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
 | 07/11/2023 |  Planejamento da Sprint 10
-| 09/11/2023 |  daily  
-| 11/11/2023 |  daily 
-| 14/11/2023 |  daily  para review da sprint 10
+| 09/11/2023 |  daily para estudo do docker
+| 11/11/2023 |  daily para melhorar estrutura
+| 14/11/2023 |  review da sprint 10
 
 ## Avaliação do Scrum Master
 
