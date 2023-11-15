@@ -1,6 +1,6 @@
 ### Oque fizemos
 
-Nesta sprint focamos em estudar o docker e emplementar
+Nesta sprint focamos em estudar o docker e melhorar as estruturs de diretórios
 
 #
 ## Histórico de Versões
@@ -20,5 +20,9 @@ Nesta sprint focamos em estudar o docker e emplementar
 ## Objetivos
 |                            Issue                             |              Título               |                    Responsáveis                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#71](https://github.com/unb-mds/2023-2-Squad07/issues/71) |  Sprint 10 -Criação de Contêiner Docker   |[todos]  |
+| [#71](https://github.com/unb-mds/2023-2-Squad07/issues/71) |  Sprint 10 -Criação de Contêiner Docker   |[Giovana Barbosa ](https://github.com/gio221), [José André](https://github.com/joseandre25) e  [Rafael Bonach](https://github.com/RafaBonach)  |
 | [#72](https://github.com/unb-mds/2023-2-Squad07/issues/72) |  Sprint 10 -Documentação da Ata das Reuniões da Sprint 10   | [Giovana Barbosa ](https://github.com/gio221) |
+| [#73](https://github.com/unb-mds/2023-2-Squad07/issues/73) |  Sprint 10 -Melhoria na Estrutura de Diretórios para Desenvolvimento e Automação 10   | [José André](https://github.com/joseandre25)   |
+
+
+

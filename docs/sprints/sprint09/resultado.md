@@ -32,10 +32,10 @@ Durante esta sprint, focamos nos estudo do scrapy
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
-| 17/10/2023 |  Planejamento da Sprint 9
-| 19/10/2023 |  daily  
-| 21/10/2023 |  daily 
-| 24/10/2023 |  daily  para review da sprint 9
+| 31/10/2023 |  Planejamento da Sprint 9
+| 02/11/2023 |  daily  
+| 04/11/2023 |  daily 
+| 07/11/2023 |  daily  para review da sprint 9
 
 ## Avaliação do Scrum Master
 

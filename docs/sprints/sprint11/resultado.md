@@ -1,6 +1,6 @@
 ## Oque fizemos
 
-Durante esta sprint, focamos no estudo do Docker
+Durante esta sprint,
 
 #
 
@@ -8,14 +8,11 @@ Durante esta sprint, focamos no estudo do Docker
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :--------------------:                    | :---------------: |
-| 14/11/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
+| 21/11/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Objetivos
 |                            Issue                             |              Título               |                    Status                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#71](https://github.com/unb-mds/2023-2-Squad07/issues/71) |  Sprint 10 -Criação de Contêiner Docker   | _concluido_  | 
-| [#72](https://github.com/unb-mds/2023-2-Squad07/issues/72) |  Sprint 10 -Documentação da Ata das Reuniões da Sprint 10    | _concluido_  | 
-| [#73](https://github.com/unb-mds/2023-2-Squad07/issues/73) |  Sprint 10 -Melhoria na Estrutura de Diretórios para Desenvolvimento e Automação 10   |  _concluido_    |
 
 
 ## Atividade de cada membro
@@ -32,11 +29,11 @@ Durante esta sprint, focamos no estudo do Docker
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
-| 07/11/2023 |  Planejamento da Sprint 10
-| 09/11/2023 |  daily  
-| 11/11/2023 |  daily 
-| 14/11/2023 |  daily  para review da sprint 10
+| 14/11/2023 |  Planejamento da Sprint 11
+| 16/11/2023 |  daily  
+| 18/11/2023 |  daily 
+| 21/11/2023 |  daily  para review da sprint 11
 
 ## Avaliação do Scrum Master
 
-Nessa Sprint 10 focamos no estudo do docker
+Nessa Sprint 11
