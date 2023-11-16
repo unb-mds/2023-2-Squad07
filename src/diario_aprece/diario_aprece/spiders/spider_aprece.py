@@ -1,45 +1,74 @@
 import scrapy
 import os
 from diario_aprece.items import DiarioItem
+import re
+import fitz  # PyMuPDF
 
 class SpiderApreceSpider(scrapy.Spider):
     name = "spider_aprece"
     allowed_domains = ["www.diariomunicipal.com.br"]
     start_urls = [input("Insira o link: ")]
 
+    # Lista fictícia de municípios no Ceará
+    MUNICIPIOS_CEARA = ["Abaiara", "Acopiara", "Altaneira", "Alto Santo", "Arataba", "Banabuiú"]
+
     def parse(self, response):
-        # Aqui fazemos o download do PDF
         pdf_url = response.url
         pdf_filename = os.path.basename(pdf_url)
 
         with open(pdf_filename, 'wb') as pdf_file:
             pdf_file.write(response.body)
 
-        # Chamamos o Apache Tika para extrair o texto do PDF
         text = self.extract_text_from_pdf(pdf_filename)
 
-        # Aqui você pode processar o texto extraído, por exemplo, separar os municípios e contar os avisos de licitação.
+        # Extrair a data do início do PDF
+        data_pdf = self.extract_data_from_text(text)
 
-        # Exemplo: Contar o número de ocorrências de "Aviso de Licitação" no texto
-        num_avisos_licitacao = text.lower().count("aviso de licitação")
+        # Iterar sobre os municípios
+        for municipio in self.MUNICIPIOS_CEARA:
+            # Verificar se o município está no texto
+            if municipio.lower() in text.lower():
+                # Extrair bloco de texto correspondente ao município
+                municipio_block = self.extract_municipio_block(text, municipio)
 
-        # Exemplo de como armazenar em um item
-        item = DiarioItem(pdf_filename=pdf_filename, num_avisos_licitacao=num_avisos_licitacao)
-        yield item
+                # Adicionando lógica para contar o número de avisos de licitação
+                num_avisos_licitacao = municipio_block.lower().count("aviso de licitação")
 
-        # Após a raspagem e armazenamento dos dados, removemos o arquivo PDF
+                item = DiarioItem(pdf_filename=pdf_filename, municipio=municipio, data_pdf=data_pdf, num_avisos_licitacao=num_avisos_licitacao)
+                yield item
+
         os.remove(pdf_filename)
 
     def extract_text_from_pdf(self, pdf_filename):
-        # Aqui você chama o Apache Tika para extrair o texto do PDF e o retorna.
-        # A instalação e configuração do Apache Tika são necessárias.
-        # Você pode usar a biblioteca 'tika' do Python para isso.
-        from tika import parser
+        text = ""
+        try:
+            # Usando a biblioteca PyMuPDF para extrair o texto do PDF
+            pdf_document = fitz.open(pdf_filename)
+            num_pages = pdf_document.page_count
 
-        raw_text = ""
-        parsed_pdf = parser.from_file(pdf_filename)
+            for page_num in range(num_pages):
+                page = pdf_document[page_num]
+                text += page.get_text()
 
-        if 'content' in parsed_pdf:
-            raw_text = parsed_pdf['content']
+        except Exception as e:
+            self.logger.error(f"Erro ao extrair texto do PDF: {e}")
 
-        return raw_text
+        return text
+
+    def extract_municipio_block(self, text, municipio):
+        # Utilizando expressão regular para encontrar o bloco de texto correspondente ao município
+        match = re.search(rf'{municipio}.*?(?={("|".join(self.MUNICIPIOS_CEARA))})', text, re.DOTALL | re.IGNORECASE)
+        return match.group(0) if match else ""
+
+    def extract_data_from_text(self, text):
+        # Tentar extrair a data no formato "DD de [Mês] de YYYY"
+        match = re.search(r'(\d{1,2} de [a-zA-Z]+ de \d{4})', text)
+        if match:
+            return match.group(1)
+
+        # Tentar extrair a data no formato "DD/MM/YYYY"
+        match = re.search(r'(\d{2}/\d{2}/\d{4})', text)
+        if match:
+            return match.group(1)
+
+        return "Data Desconhecida"
