@@ -3,14 +3,12 @@ import os
 from diario_aprece.items import DiarioItem
 import re
 import fitz  # PyMuPDF
+from diario_aprece.municipios_aprece import MUNICIPIOS_APRECE
 
 class SpiderApreceSpider(scrapy.Spider):
     name = "spider_aprece"
     allowed_domains = ["www.diariomunicipal.com.br"]
     start_urls = [input("Insira o link: ")]
-
-    # Lista fictícia de municípios no Ceará
-    MUNICIPIOS_CEARA = ["Abaiara", "Acopiara", "Altaneira", "Alto Santo", "Arataba", "Banabuiú"]
 
     def parse(self, response):
         pdf_url = response.url
@@ -25,7 +23,7 @@ class SpiderApreceSpider(scrapy.Spider):
         data_pdf = self.extract_data_from_text(text)
 
         # Iterar sobre os municípios
-        for municipio in self.MUNICIPIOS_CEARA:
+        for municipio in MUNICIPIOS_APRECE:
             # Verificar se o município está no texto
             if municipio.lower() in text.lower():
                 # Extrair bloco de texto correspondente ao município
@@ -57,7 +55,7 @@ class SpiderApreceSpider(scrapy.Spider):
 
     def extract_municipio_block(self, text, municipio):
         # Utilizando expressão regular para encontrar o bloco de texto correspondente ao município
-        match = re.search(rf'{municipio}.*?(?={("|".join(self.MUNICIPIOS_CEARA))})', text, re.DOTALL | re.IGNORECASE)
+        match = re.search(rf'{municipio}.*?(?={("|".join(MUNICIPIOS_APRECE))})', text, re.DOTALL | re.IGNORECASE)
         return match.group(0) if match else ""
 
     def extract_data_from_text(self, text):
