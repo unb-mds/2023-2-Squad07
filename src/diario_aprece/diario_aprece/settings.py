@@ -25,8 +25,8 @@ ITEM_PIPELINES = {
 }
 
 # Configure output settings
-FEED_FORMAT = 'jsonlines'  # Use 'jsonlines' para um arquivo JSON por linha ou 'json' para um arquivo JSON único
-FEED_URI = 'resultados.json'  # Nome do arquivo de saída
+FEED_FORMAT = 'json'  # Use 'json' para um único arquivo JSON
+# FEED_URI = 'resultados.json'  # Esta configuração não será usada, pois cada município agora tem seu próprio arquivo
 
 # Set settings whose default value is deprecated to a future-proof value
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"

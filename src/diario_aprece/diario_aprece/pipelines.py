@@ -30,17 +30,23 @@ class DiarioPipeline:
         return item
 
     def close_spider(self, spider):
-        # Garanta que a pasta "public" exista
-        os.makedirs('../../public', exist_ok=True)
+        # Ajuste o caminho para a pasta "public" no mesmo nível que a pasta "src"
+        output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), '../../public')
+        os.makedirs(output_dir, exist_ok=True)
 
-        # Combine os resultados de todos os municípios em uma única lista
-        all_results = []
+        # Para cada município, carregue os resultados antigos (se existirem)
         for municipio, data_list in self.results.items():
-            all_results.extend(data_list)
+            output_file = os.path.join(output_dir, f'{municipio.lower()}_resultados.json')
 
-        # Salve a lista completa de resultados no arquivo JSON geral
-        output_file = os.path.join('../../public', 'resultados.json')
-        with open(output_file, 'w', encoding='utf-8') as json_file:
-            json.dump(all_results, json_file, indent=2, default=str, ensure_ascii=False)
+            # Tente carregar os resultados antigos se o arquivo existir
+            old_data = []
+            if os.path.exists(output_file):
+                with open(output_file, 'r', encoding='utf-8') as json_file:
+                    old_data = json.load(json_file)
 
-        return None
+            # Adicione os novos resultados aos resultados antigos
+            all_data = old_data + data_list
+
+            # Salve os resultados combinados em um único arquivo JSON
+            with open(output_file, 'w', encoding='utf-8') as json_file:
+                json.dump(all_data, json_file, indent=2, default=str, ensure_ascii=False)
