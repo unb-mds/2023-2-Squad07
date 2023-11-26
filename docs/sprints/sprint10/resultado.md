@@ -16,16 +16,20 @@ Durante esta sprint, focamos no estudo do Docker
 | [#71](https://github.com/unb-mds/2023-2-Squad07/issues/71) |  Sprint 10 -Criação de Contêiner Docker   | _concluido_  | 
 | [#72](https://github.com/unb-mds/2023-2-Squad07/issues/72) |  Sprint 10 -Documentação da Ata das Reuniões da Sprint 10    | _concluido_  | 
 | [#73](https://github.com/unb-mds/2023-2-Squad07/issues/73) |  Sprint 10 -Melhoria na Estrutura de Diretórios para Desenvolvimento e Automação 10   |  _concluido_    |
+| [#75](https://github.com/unb-mds/2023-2-Squad07/issues/75) |  Sprint 10 -Estudo sobre Testes no LicitaX   | _concluido_    |
+| [#81](https://github.com/unb-mds/2023-2-Squad07/issues/81) |  Sprint 10 -Mudanças no protótipo   | _concluido_   |
+
+
 
 
 ## Atividade de cada membro
  Atividade        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Documentação da Ata, estudo do docker|                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
-|  |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+| Mudanças no Prototipo |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
 |estudo do docker,melhoria na Estrutura de Diretórios para Desenvolvimento e Automação|                [José André](https://github.com/joseandre25)                                                     |
 | estudo do docker |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
-|   |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
+| Estudo de testes  |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
 
 
 ## Reuniões: Nessa Sprint 10 tivemos quatro reuniões

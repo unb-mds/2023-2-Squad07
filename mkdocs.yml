@@ -68,4 +68,7 @@ nav:
         - Sprint 11:
           - Planejamento: sprints/sprint11/planejamento.md
           - Resultado: sprints/sprint11/resultado.md
+        - Sprint 12:
+          - Planejamento: sprints/sprint12/planejamento.md
+          - Resultado: sprints/sprint12/resultado.md
 theme: material

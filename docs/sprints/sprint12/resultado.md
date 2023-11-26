@@ -8,36 +8,35 @@ Durante esta sprint, focamos em estudos
 
 | Data       | Versão | Descrição                                 | Autor             |
 | :--------: | :----: | :--------------------:                    | :---------------: |
-| 21/11/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
+| 28/11/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
 
 ## Objetivos
 |                            Issue                             |              Título               |                    Status                     |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#74](https://github.com/unb-mds/2023-2-Squad07/issues/74) |  Sprint 11 -Documentação da Ata das Reuniões da Sprint 11   |_concluido_ |
- | [#76](https://github.com/unb-mds/2023-2-Squad07/issues/76) |  Sprint 11 Estudo sobre Integração Contínua com GitHub Actions no Projeto LicitaX   |_concluido_ |
- | [#77](https://github.com/unb-mds/2023-2-Squad07/issues/77) |  Sprint 11 -Estudo de Testes Unitários   |_concluido_ |
- | [#78](https://github.com/unb-mds/2023-2-Squad07/issues/78) |  Sprint 11 -Estudo do React com TypeScript    |_concluido_ |
+| [#79](https://github.com/unb-mds/2023-2-Squad07/issues/79) |  Sprint 12 -Documentação da Ata das Reuniões da Sprint 12   |_concluido_  |
+ | [#80](https://github.com/unb-mds/2023-2-Squad07/issues/80) |  Sprint 12 Desenvolvimento Front-end para deixar mais fiel ao prototipo   |_concluido_ |
  
+  
 
 ## Atividade de cada membro
  Atividade        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|Documentação da Ata, estudo de testes e react|                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
+|Documentação da Ata, desenvolvimento do front-end|                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
 | |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
 ||                [José André](https://github.com/joseandre25)                                                     |
 |  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
-|  estudo da integração continua  |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
+|   |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
 
 
-## Reuniões: Nessa Sprint 11 tivemos quatro reuniões
+## Reuniões: Nessa Sprint 12 tivemos quatro reuniões
 
 | Data       | Tema                             
 | :---------:| :---------------------------------------------:      
-| 14/11/2023 |  Planejamento da Sprint 11
+| 14/11/2023 |  Planejamento da Sprint 12
 | 16/11/2023 |  daily  
 | 18/11/2023 |  daily 
-| 21/11/2023 |  daily  para review da sprint 11
+| 21/11/2023 |  daily  para review da sprint 12
 
 ## Avaliação do Scrum Master
 
-Nessa Sprint 11 focamos em estudo e mudanças do prototipo
+Nessa Sprint 12 focamos 
