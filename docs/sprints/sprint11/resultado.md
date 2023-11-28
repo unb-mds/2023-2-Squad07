@@ -17,14 +17,17 @@ Durante esta sprint, focamos em estudos
  | [#76](https://github.com/unb-mds/2023-2-Squad07/issues/76) |  Sprint 11 Estudo sobre Integração Contínua com GitHub Actions no Projeto LicitaX   |_concluido_ |
  | [#77](https://github.com/unb-mds/2023-2-Squad07/issues/77) |  Sprint 11 -Estudo de Testes Unitários   |_concluido_ |
  | [#78](https://github.com/unb-mds/2023-2-Squad07/issues/78) |  Sprint 11 -Estudo do React com TypeScript    |_concluido_ |
+ | [#82](https://github.com/unb-mds/2023-2-Squad07/issues/82) |  Sprint 11 -Alteração na segunda página do protótipo de alta fidelidade    |_concluido_|
+  | [#84](https://github.com/unb-mds/2023-2-Squad07/issues/84) |  Sprint 11 -Aprimoramento do Scrapy para Segmentação de JSON por Município   | _concluido_    |
+ 
  
 
 ## Atividade de cada membro
  Atividade        |                                                                           Nome                                                                            |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Documentação da Ata, estudo de testes e react|                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
-| |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
-||                [José André](https://github.com/joseandre25)                                                     |
+| Alteração na segunda página do protótipo de alta fidelidade|                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
+|Aprimoramento do Scrapy para Segmentação de JSON por Município |                [José André](https://github.com/joseandre25)                                                     |
 |  |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
 |  estudo da integração continua  |                                                    [Samara Leticia](https://github.com/samarawwleticia)       |  
 

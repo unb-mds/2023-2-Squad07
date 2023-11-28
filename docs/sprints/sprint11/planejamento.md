@@ -24,5 +24,7 @@ Nesta sprint focamos em estudos de integração contínua e do front-end
  | [#76](https://github.com/unb-mds/2023-2-Squad07/issues/76) |  Sprint 11 Estudo sobre Integração Contínua com GitHub Actions no Projeto LicitaX   |[Samara Leticia](https://github.com/samarawwleticia) |
  | [#77](https://github.com/unb-mds/2023-2-Squad07/issues/77) |  Sprint 11 -Estudo de Testes Unitários   |[Giovana Barbosa ](https://github.com/gio221) |
  | [#78](https://github.com/unb-mds/2023-2-Squad07/issues/78) |  Sprint 11 -Estudo do React com TypeScript    |[Giovana Barbosa ](https://github.com/gio221) |
+ | [#82](https://github.com/unb-mds/2023-2-Squad07/issues/82) |  Sprint 11 -Alteração na segunda página do protótipo de alta fidelidade    |[Julia Takaki](https://github.com/juliatakaki) |
+ | [#84](https://github.com/unb-mds/2023-2-Squad07/issues/84) |  Sprint 11 -Aprimoramento do Scrapy para Segmentação de JSON por Município   | [José André](https://github.com/joseandre25)   |
  
 
