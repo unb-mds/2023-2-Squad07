@@ -2,6 +2,11 @@
   {
     "municipio": "alto-santo",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 2
+    "sum_num_avisos_licitacao": 10
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

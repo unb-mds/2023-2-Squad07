@@ -2,6 +2,11 @@
   {
     "municipio": "milagres",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 2
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "milagres",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

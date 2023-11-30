@@ -3,5 +3,10 @@
     "municipio": "morada-nova",
     "month": "Janeiro",
     "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "morada-nova",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

@@ -2,6 +2,11 @@
   {
     "municipio": "iguatu",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 2
+    "sum_num_avisos_licitacao": 6
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

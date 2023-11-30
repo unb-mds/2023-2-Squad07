@@ -2,6 +2,11 @@
   {
     "municipio": "antonina-do-norte",
     "month": "Janeiro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Fevereiro",
     "sum_num_avisos_licitacao": 0
   }
 ]

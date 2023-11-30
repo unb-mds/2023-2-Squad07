@@ -3,5 +3,10 @@
     "municipio": "groairas",
     "month": "Janeiro",
     "sum_num_avisos_licitacao": 7
+  },
+  {
+    "municipio": "groairas",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

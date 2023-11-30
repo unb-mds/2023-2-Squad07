@@ -2,6 +2,11 @@
   {
     "municipio": "santana-do-cariri",
     "month": "Janeiro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "santana-do-cariri",
+    "month": "Fevereiro",
     "sum_num_avisos_licitacao": 0
   }
 ]

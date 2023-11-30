@@ -2,6 +2,11 @@
   {
     "municipio": "acopiara",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 8
+    "sum_num_avisos_licitacao": 14
+  },
+  {
+    "municipio": "acopiara",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

@@ -2,6 +2,11 @@
   {
     "municipio": "ico",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 2
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "ico",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

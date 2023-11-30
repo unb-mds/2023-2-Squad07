@@ -2,6 +2,11 @@
   {
     "municipio": "boa-viagem",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 5
+    "sum_num_avisos_licitacao": 7
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

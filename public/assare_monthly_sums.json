@@ -2,6 +2,11 @@
   {
     "municipio": "assare",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 2
+    "sum_num_avisos_licitacao": 15
+  },
+  {
+    "municipio": "assare",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

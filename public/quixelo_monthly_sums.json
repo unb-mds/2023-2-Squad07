@@ -2,6 +2,11 @@
   {
     "municipio": "quixelo",
     "month": "Janeiro",
-    "sum_num_avisos_licitacao": 2
+    "sum_num_avisos_licitacao": 6
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]
