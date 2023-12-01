@@ -8,5 +8,10 @@
     "municipio": "assare",
     "month": "Fevereiro",
     "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "assare",
+    "month": "Março",
+    "sum_num_avisos_licitacao": 10
   }
 ]

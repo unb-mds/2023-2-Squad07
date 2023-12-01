@@ -60,7 +60,8 @@ class SpiderApreceSpider(scrapy.Spider):
 
     def extract_data_from_text(self, text):
         # Tentar extrair a data no formato "DD de [Mês] de YYYY"
-        match = re.search(r'(\d{1,2} de [a-zA-Z]+ de \d{4})', text)
+        # Agora março irá ser lido corretamente 
+        match = re.search(r'(\d{1,2} de [a-zA-ZçÇáéíóúÁÉÍÓÚãõÃÕâêîôûÂÊÎÔÛàèìòùÀÈÌÒÙäëïöüÄËÏÖÜýÿ\s]+ de \d{4})', text)
         if match:
             return match.group(1)
 
