@@ -3,5 +3,10 @@
     "municipio": "potengi",
     "month": "Janeiro",
     "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "potengi",
+    "month": "Fevereiro",
+    "sum_num_avisos_licitacao": 0
   }
 ]
