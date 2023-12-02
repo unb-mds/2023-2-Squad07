@@ -53,5 +53,10 @@
     "municipio": "morada-nova",
     "month": "Novembro",
     "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "morada-nova",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

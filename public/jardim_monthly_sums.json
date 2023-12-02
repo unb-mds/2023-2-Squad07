@@ -53,5 +53,10 @@
     "municipio": "jardim",
     "month": "Novembro",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "jardim",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

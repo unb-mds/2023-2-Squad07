@@ -53,5 +53,10 @@
     "municipio": "acopiara",
     "month": "Novembro",
     "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "acopiara",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

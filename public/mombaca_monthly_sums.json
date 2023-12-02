@@ -53,5 +53,10 @@
     "municipio": "mombaca",
     "month": "Novembro",
     "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "mombaca",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]
