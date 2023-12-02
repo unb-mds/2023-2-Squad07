@@ -43,5 +43,10 @@
     "municipio": "assare",
     "month": "Setembro",
     "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "assare",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 12
   }
 ]

@@ -43,5 +43,10 @@
     "municipio": "potengi",
     "month": "Setembro",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 3
   }
 ]

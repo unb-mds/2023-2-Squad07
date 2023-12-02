@@ -43,5 +43,10 @@
     "municipio": "alto-santo",
     "month": "Setembro",
     "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 7
   }
 ]

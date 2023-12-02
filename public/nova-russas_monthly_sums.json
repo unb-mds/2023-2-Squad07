@@ -43,5 +43,10 @@
     "municipio": "nova-russas",
     "month": "Setembro",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "nova-russas",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 1
   }
 ]

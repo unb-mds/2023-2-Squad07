@@ -43,5 +43,10 @@
     "municipio": "nova-olinda",
     "month": "Setembro",
     "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "nova-olinda",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 1
   }
 ]
