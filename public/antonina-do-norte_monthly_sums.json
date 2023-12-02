@@ -13,5 +13,50 @@
     "municipio": "antonina-do-norte",
     "month": "Março",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

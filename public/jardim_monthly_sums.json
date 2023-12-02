@@ -13,5 +13,50 @@
     "municipio": "jardim",
     "month": "Março",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "jardim",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "jardim",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "jardim",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

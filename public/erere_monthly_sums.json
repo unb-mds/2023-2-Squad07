@@ -13,5 +13,50 @@
     "municipio": "erere",
     "month": "Março",
     "sum_num_avisos_licitacao": 13
+  },
+  {
+    "municipio": "erere",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "erere",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "erere",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "erere",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "erere",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "erere",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "erere",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "erere",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "erere",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

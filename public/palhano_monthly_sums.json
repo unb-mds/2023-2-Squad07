@@ -13,5 +13,50 @@
     "municipio": "palhano",
     "month": "Março",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "palhano",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "palhano",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "palhano",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "palhano",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "palhano",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "palhano",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "palhano",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "palhano",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "palhano",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

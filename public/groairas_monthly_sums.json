@@ -13,5 +13,50 @@
     "municipio": "groairas",
     "month": "Março",
     "sum_num_avisos_licitacao": 12
+  },
+  {
+    "municipio": "groairas",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 8
+  },
+  {
+    "municipio": "groairas",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "groairas",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "groairas",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "groairas",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "groairas",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "groairas",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "groairas",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 10
+  },
+  {
+    "municipio": "groairas",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

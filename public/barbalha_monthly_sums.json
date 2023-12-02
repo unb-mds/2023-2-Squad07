@@ -13,5 +13,45 @@
     "municipio": "barbalha",
     "month": "Março",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

@@ -13,5 +13,50 @@
     "municipio": "boa-viagem",
     "month": "Março",
     "sum_num_avisos_licitacao": 20
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 6
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 8
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 8
+  },
+  {
+    "municipio": "boa-viagem",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

@@ -13,5 +13,50 @@
     "municipio": "assare",
     "month": "Março",
     "sum_num_avisos_licitacao": 10
+  },
+  {
+    "municipio": "assare",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "assare",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "assare",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "assare",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "assare",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "assare",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "assare",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 12
+  },
+  {
+    "municipio": "assare",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "assare",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

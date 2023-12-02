@@ -13,5 +13,50 @@
     "municipio": "quixelo",
     "month": "Março",
     "sum_num_avisos_licitacao": 10
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 8
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

@@ -13,5 +13,50 @@
     "municipio": "banabuiu",
     "month": "Março",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "banabuiu",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

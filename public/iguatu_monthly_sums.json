@@ -13,5 +13,50 @@
     "municipio": "iguatu",
     "month": "Março",
     "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 9
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

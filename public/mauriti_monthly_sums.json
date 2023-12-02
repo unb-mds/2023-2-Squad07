@@ -13,5 +13,50 @@
     "municipio": "mauriti",
     "month": "Março",
     "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

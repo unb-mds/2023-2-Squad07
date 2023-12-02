@@ -13,5 +13,45 @@
     "municipio": "potengi",
     "month": "Março",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "potengi",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "potengi",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "potengi",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

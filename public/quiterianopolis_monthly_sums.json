@@ -13,5 +13,50 @@
     "municipio": "quiterianopolis",
     "month": "Março",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

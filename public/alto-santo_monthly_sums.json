@@ -13,5 +13,50 @@
     "municipio": "alto-santo",
     "month": "Março",
     "sum_num_avisos_licitacao": 12
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 12
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Junho",
+    "sum_num_avisos_licitacao": 6
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Julho",
+    "sum_num_avisos_licitacao": 14
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 11
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 5
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Outubro",
+    "sum_num_avisos_licitacao": 7
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "alto-santo",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]
