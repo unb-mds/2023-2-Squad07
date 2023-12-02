@@ -18,5 +18,10 @@
     "municipio": "antonina-do-norte",
     "month": "Abril",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "antonina-do-norte",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
   }
 ]

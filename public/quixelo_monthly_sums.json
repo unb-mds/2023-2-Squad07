@@ -18,5 +18,10 @@
     "municipio": "quixelo",
     "month": "Abril",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "quixelo",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 3
   }
 ]

@@ -18,5 +18,10 @@
     "municipio": "salitre",
     "month": "Abril",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "salitre",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 0
   }
 ]

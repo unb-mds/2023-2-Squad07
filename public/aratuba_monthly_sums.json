@@ -18,5 +18,10 @@
     "municipio": "aratuba",
     "month": "Abril",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "aratuba",
+    "month": "Maio",
+    "sum_num_avisos_licitacao": 2
   }
 ]
