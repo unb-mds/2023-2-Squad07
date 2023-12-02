@@ -13,5 +13,10 @@
     "municipio": "quiterianopolis",
     "month": "Março",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "quiterianopolis",
+    "month": "Abril",
+    "sum_num_avisos_licitacao": 0
   }
 ]
