@@ -33,5 +33,10 @@
     "municipio": "tabuleiro-do-norte",
     "month": "Julho",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "tabuleiro-do-norte",
+    "month": "Agosto",
+    "sum_num_avisos_licitacao": 0
   }
 ]
