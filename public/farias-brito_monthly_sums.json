@@ -48,5 +48,10 @@
     "municipio": "farias-brito",
     "month": "Outubro",
     "sum_num_avisos_licitacao": 4
+  },
+  {
+    "municipio": "farias-brito",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

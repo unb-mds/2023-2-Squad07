@@ -48,5 +48,10 @@
     "municipio": "ico",
     "month": "Outubro",
     "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "ico",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 5
   }
 ]

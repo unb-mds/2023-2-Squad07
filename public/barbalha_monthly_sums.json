@@ -48,5 +48,10 @@
     "municipio": "barbalha",
     "month": "Outubro",
     "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "barbalha",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

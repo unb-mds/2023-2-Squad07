@@ -48,5 +48,10 @@
     "municipio": "santana-do-cariri",
     "month": "Outubro",
     "sum_num_avisos_licitacao": 2
+  },
+  {
+    "municipio": "santana-do-cariri",
+    "month": "Novembro",
+    "sum_num_avisos_licitacao": 3
   }
 ]
