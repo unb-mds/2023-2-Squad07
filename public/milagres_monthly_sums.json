@@ -38,5 +38,10 @@
     "municipio": "milagres",
     "month": "Agosto",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "milagres",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

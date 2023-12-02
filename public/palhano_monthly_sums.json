@@ -38,5 +38,10 @@
     "municipio": "palhano",
     "month": "Agosto",
     "sum_num_avisos_licitacao": 1
+  },
+  {
+    "municipio": "palhano",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 2
   }
 ]

@@ -38,5 +38,10 @@
     "municipio": "iguatu",
     "month": "Agosto",
     "sum_num_avisos_licitacao": 9
+  },
+  {
+    "municipio": "iguatu",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 5
   }
 ]

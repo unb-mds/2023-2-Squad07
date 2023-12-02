@@ -38,5 +38,10 @@
     "municipio": "erere",
     "month": "Agosto",
     "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "erere",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 0
   }
 ]

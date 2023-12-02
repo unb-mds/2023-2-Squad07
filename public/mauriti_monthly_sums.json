@@ -38,5 +38,10 @@
     "municipio": "mauriti",
     "month": "Agosto",
     "sum_num_avisos_licitacao": 0
+  },
+  {
+    "municipio": "mauriti",
+    "month": "Setembro",
+    "sum_num_avisos_licitacao": 1
   }
 ]
