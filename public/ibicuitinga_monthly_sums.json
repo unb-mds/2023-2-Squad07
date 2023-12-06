@@ -53,5 +53,10 @@
     "municipio": "ibicuitinga",
     "month": "Novembro",
     "sum_num_avisos_licitacao": 3
+  },
+  {
+    "municipio": "ibicuitinga",
+    "month": "Dezembro",
+    "sum_num_avisos_licitacao": 1
   }
 ]
