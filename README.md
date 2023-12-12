@@ -4,14 +4,6 @@
         <img src="https://i.pinimg.com/originals/bd/db/4d/bddb4d5d400a2724f5a94b3982d3d61e.png" style="width: 35%;"/>
         <p>Figura 1: Logo do LicitaX</p>
     </div>
-    <div style="display: inline-block; width: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/originals/4b/36/fc/4b36fc30aaa87c5a5ae0f25d2e3a5d89.png" style="width: 20%;"/>
-        <p>Figura 2: Logo do Querido Diário</p>
-    </div>
-    <div style="display: inline-block; width: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/originals/a5/34/49/a53449dbf40ab339b1ed613d53d57dfd.png" style="width: 20%;"/>
-        <p>Figura 3: Logo do Exoonero</p>
-    </div>
 </div>
 
 ## Sobre o projeto
@@ -21,11 +13,15 @@ Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história<
 
 Saiba mais sobre o <a href="https://exoonero.org/sobre/">Exoonero</a>. 
 
-Acesse nosso <a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
+<a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
 
 <a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>.
 
-## Instruções de uso
+## Instruções de uso para executar o Projeto *LicitaX*
+
+- <a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
+- <a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>.
+- <a href="https://unb-mds.github.io/2023-2-Squad07/">Documentação e Requisitos</a>.
 
 ### Pré-requisitos:
 
@@ -41,7 +37,11 @@ Para começar a usar o software completo, você precisa clonar dois repositório
 ```bash
 git clone https://github.com/unb-mds/2023-2-Squad07.git
 ```
+No terminal integrado ao projeto, instale o PyMuPDF:
 
+```bash
+pip install pymupdf
+```
 Depois, navegue até a pasta src:
 
 ```bash
@@ -62,8 +62,6 @@ scrapy crawl spider_aprece
 
 Após, insira o link do PDF do diário oficial (apenas do domínio www.diariomunicipal.com.br) e dê enter.
 
-O Scrapy irá baixar o diário, o Apache Tika irá extrair o texto e processar a quantidade de vezes que a frase "aviso de licitação" ocorreu no diário oficial e irá gerar um JSON na pasta Public, na raiz do projeto.
-
 Agora, clone o repositório do frontend para a pasta desejada através do seguinte comando:
 
 ```bash
@@ -81,6 +79,9 @@ Inicie o servidor através do comando:
 ```bash
 yarn dev
 ```
+
+Agradecemos pelo seu apoio!
+
 
 ## Equipe
 
