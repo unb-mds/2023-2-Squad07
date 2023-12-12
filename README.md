@@ -1,8 +1,12 @@
 # 2023.2 - Squad 07 | LicitaX
 <div align="center">
     <div style="display: inline-block; width: 30%; text-align: center;">
-        <img src="https://i.pinimg.com/originals/bd/db/4d/bddb4d5d400a2724f5a94b3982d3d61e.png" style="width: 35%;"/>
+        <img src="https://i.pinimg.com/originals/bd/db/4d/bddb4d5d400a2724f5a94b3982d3d61e.png" style="width: 40%;"/>
         <p>Figura 1: Logo do LicitaX</p>
+    </div>
+    <div style="display: inline-block; width: 30%; text-align: center;">
+        <img src="https://i.pinimg.com/originals/b1/b2/25/b1b225927006e0aab62fdc6e105f13f8.png" style="width: 35%;"/>
+        <p>Figura 2: Logo do Ceará</p>
     </div>
 </div>
 
@@ -37,10 +41,14 @@ Para começar a usar o software completo, você precisa clonar dois repositório
 ```bash
 git clone https://github.com/unb-mds/2023-2-Squad07.git
 ```
-No terminal integrado ao projeto, instale o PyMuPDF:
+No terminal integrado ao projeto, instale as seguintes dependências:
 
 ```bash
 pip install pymupdf
+```
+
+```bash
+pip install regex
 ```
 Depois, navegue até a pasta src:
 
