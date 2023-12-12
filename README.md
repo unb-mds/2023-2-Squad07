@@ -17,15 +17,13 @@ Conheça mais sobre a <a href="https://queridodiario.ok.org.br/sobre">história<
 
 Saiba mais sobre o <a href="https://exoonero.org/sobre/">Exoonero</a>. 
 
-<a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
-
-<a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>.
+O objetivo do projeto *LicitaX* é apresentar, de forma fiel, aos stakeholders a quantidade de avisos de licitação que ocorreram nos municípios da APRECE (Associação dos Municípios do Estado do Ceará) em um determinado período de tempo, além disso, fornecer através de uma pesquisa avançada mais dados sobre essas licitações.
 
 ## Instruções de uso para executar o Projeto *LicitaX*
 
-- <a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>.
-- <a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>.
-- <a href="https://unb-mds.github.io/2023-2-Squad07/">Documentação e Requisitos</a>.
+- <a href="https://unb-mds.github.io/2023.2-LicitaX/">front-end</a>
+- <a href="https://github.com/unb-mds/2023.2-LicitaX">Repositório do front-end</a>
+- <a href="https://unb-mds.github.io/2023-2-Squad07/">Documentação e Requisitos</a>
 
 ### Pré-requisitos:
 
