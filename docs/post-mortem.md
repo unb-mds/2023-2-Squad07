@@ -1,6 +1,6 @@
 # Post Mortem
 ## Introdução
-<p align="justify">Este documento apresenta o post mortem do projeto *LicitaX*, desenvolvido como trabalho da disciplina de Métodos de Desenvolvimento de Software. O projeto teve como objetivo é apresentar, de forma fiel, aos stakeholders a quantidade de avisos de licitação que ocorreram nos municípios da APRECE (Associação dos Municípios do Estado do Ceará) em um determinado período de tempo, além disso, fornecer através de uma pesquisa avançada mais dados sobre essas licitações.
+<p align="justify">Este documento apresenta o post mortem do projeto LicitaX, desenvolvido como trabalho da disciplina de Métodos de Desenvolvimento de Software. O projeto teve como objetivo é apresentar, de forma fiel, aos stakeholders a quantidade de avisos de licitação que ocorreram nos municípios da APRECE (Associação dos Municípios do Estado do Ceará) em um determinado período de tempo, além disso, fornecer através de uma pesquisa avançada mais dados sobre essas licitações.
 </p>
 
 
