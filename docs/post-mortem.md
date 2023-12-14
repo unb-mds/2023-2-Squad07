@@ -63,8 +63,12 @@
 
 <p align="justify">&emsp;&emsp;Reconheço que, no âmbito do desenvolvimento do backend, a gestão do tempo foi crucial, e antecipar questões de escalabilidade teria evitado ajustes tardios. Como desenvolvedora, enfrentei desafios específicos, mas a flexibilidade para aprender por conta própria e contribuir com minhas habilidades foi gratificante. Formar uma equipe coesa foi o ponto alto, proporcionando não apenas um ambiente de aprendizado substancial, mas também uma sensação de família. A gratidão pela experiência é genuína, sendo esta uma das mais enriquecedoras colaborações em grupo durante minha jornada acadêmica.</p>
 
-* **Rafael Bonach (função)**
-<p align="justify">&emsp;&emsp;local para colocar o texto</p>
+* **Rafael Bonach (Arquiteto)**
+<p align="justify">&emsp;&emsp;A disciplina de MDS e esse projeto que desenvolvemos foi extremamente enriquecedor para entender como são feitos os projetos e quais são as melhores estratégias a se adotar para desenvolver projetos de software.</p>
+
+<p align="justify">&emsp;&emsp;Entender novas tecnologias e estruturar metodologias para utilizá-las, foi crucial para conseguirmos desenvolver esse projeto. Muitos de nós não tinha noção de como funcionavam várias das linguagens e frameworks que utilizamos. Nisso, as metodologias ágeis foram cruciais para conseguirmos desenvolver esse projeto, além do uso de conselheiros digitais como fóruns e inteligência artificial ajudou imensamente a aprendermos como utilizar essas tecnologias e assim implementá-las em nosso projeto.</p>
+
+<p align="justify">&emsp;&emsp;Por fim, uma dica que dou aos futuros estudantes dessa disciplina. Planejem todos os passos que iriam fazer logo nas primeiras semanas do projeto. Não deixem isso para última hora porque isso prejudicou imensamente o desenvolvimento do projeto. Além disso, mantenha uma constância nos commits, não só porque a professora cobrará isso, mas também porque isso vai de fato ajudar a progredir no projeto. Estudem bastante os recursos mínimos para desenvolver um projeto open-source, o Github disponibiliza alguns deles mas se procurarem na internet, rapidamente vocês acharão. Ah, e não se esqueça de estudar os projetos antigos, entender como as turmas anteriores desenvolveram o projeto nos ajudou imensamente a desenvolver o nosso.</p>
 
 * **Samara Letícia (função)**
 <p align="justify">&emsp;&emsp;local para colocar o texto</p>
