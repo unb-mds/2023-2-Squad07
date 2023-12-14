@@ -70,5 +70,7 @@
 
 <p align="justify">&emsp;&emsp;Por fim, uma dica que dou aos futuros estudantes dessa disciplina. Planejem todos os passos que iriam fazer logo nas primeiras semanas do projeto. Não deixem isso para última hora porque isso prejudicou imensamente o desenvolvimento do projeto. Além disso, mantenha uma constância nos commits, não só porque a professora cobrará isso, mas também porque isso vai de fato ajudar a progredir no projeto. Estudem bastante os recursos mínimos para desenvolver um projeto open-source, o Github disponibiliza alguns deles mas se procurarem na internet, rapidamente vocês acharão. Ah, e não se esqueça de estudar os projetos antigos, entender como as turmas anteriores desenvolveram o projeto nos ajudou imensamente a desenvolver o nosso.</p>
 
-* **Samara Letícia (função)**
-<p align="justify">&emsp;&emsp;local para colocar o texto</p>
+* **Samara Letícia (Desenvolvedora)**
+<p align="justify">&emsp;&emsp;Métodos de Desenvolvimento de Software foi uma das disciplinas mais desafiadoras que eu tive como aluna da UnB. É necessário ser uma pessoa bem auto didata, algo que eu não me considerava antes de cursar essa matéria.</p>
+
+<p align="justify">&emsp;&emsp;Eu recomendo principalmente para os próximos alunos, que não tenham medo de pedir ajuda ou perguntar pros monitores e para a professora, ou até para os membros do seu grupo quando estiver perdido ou não souber fazer alguma coisa. Houveram desistentes no nosso grupo e após conversar com eles, descobri que um dos maiores motivos para a sua desistência foi o sentimento de se sentir um peso pro grupo por não saber fazer algumas das coisas necessárias pro projeto. Saiba que você é capaz de aprender qualquer coisa, basta se esforçar e ter muita dedicação. </p>
