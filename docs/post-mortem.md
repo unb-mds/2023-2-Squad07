@@ -44,8 +44,12 @@
 
 ## Sentimento da Equipe
 
-* **Giovana Silva (função)**
-<p align="justify">&emsp;&emsp;local para colocar o texto</p>
+* **Giovana Silva (Scrum Master)**
+<p align="justify">&emsp;&emsp;Fazer essa disciplina foi uma ótima experiência, tanto para faculdade quanto para minha vida profissional, aprendi a trabalhar em equipe e se organizar como uma, aprendi a desenvolver algo que traz resultado não só para mim, mas para as outras pessoas</p>
+
+<p align="justify">&emsp;&emsp;Na disciplina como grupo nos demos bem, no começo tivemos algumas dificuldades mas logo foram resolvidas e conseguimos trabalhar bem juntos, passando por dificuldades commo o horario apertado de todos com as outras máterias, e dentre outras coisas, mas tirando isso foi muito bom. No desenvolvimento do front-end tivemos mais facilidade e no desenvolvimento do back-end onde tivemos mais desafios a serem percorridos, demoramos mais.</p>
+
+<p align="justify">&emsp;&emsp; Como sugestão para o proximo semestre que os grupos se conheçam bem antes de iniciar o projeto, como as habilidades de cada um, para que possam dividir bem a equipe, para que traga mais resultados durante a matéria, possam fazer um roteiro do que querem fazer e do que vão precisar fazer para que de tudo certo, e que organizem as reuniões semanais para acompanhamento do produto que foi muito iportante nesse semestre.</p>
 
 * **José André (Product Owner)**
 <p align="justify">&emsp;&emsp;A disciplina de MDS em geral foi uma ótima experiência, ela passa por todos as etapas do desenvolvimento de um produto de software com valor de mercado e foi um período de aprendizagem enorme para mim, embora desafiador.</p>
